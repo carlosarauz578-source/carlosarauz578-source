@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F700?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
 </p>
 
+<!-- Animación dinámica superior de escaneo de vulnerabilidades -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0055&size=15&background=0D1117&center=true&vCenter=true&width=900&lines=%5B%21%5D+SCANNING+PERIMETER+NODES...;%5B%2B%5D+ZERO-DAY+VULNERABILITY+DETECTION+ACTIVE;%5B%2B%5D+BLOCKCHAIN+LEDGER+INTEGRITY+VERIFIED;%5B%2B%5D+ENCRYPTING+TUNNELS+VIA+AES-256" alt="Security Scanning Animation" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-blueviolet?style=flat-square&logo=keybase" alt="Encryption">
   <img src="https://img.shields.io/badge/VULN__SCAN-PASSED-success?style=flat-square&logo=awslambda" alt="Vuln Scan">
@@ -42,23 +47,6 @@ Desarrollador **Full-Stack Web3 y Ciberseguridad**, enfocado en smart contracts,
 
 ---
 
-## 📊 // SYSTEM_TELEMETRY (RED_TEAM vs BLUE_TEAM OPERATIONS)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" alt="GitHub Stats" width="98%" />
-</p>
-
-<!-- Snake Animation Contribution Graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
----
-
 ## 📁 // REPOSITORY_MODULES (ACCESS_GRID)
 
 | ⚡ Módulo / Proyecto | 🛠️ Stack Principal | 🔗 Panel de Control / Enlace Directo |
@@ -70,17 +58,21 @@ Desarrollador **Full-Stack Web3 y Ciberseguridad**, enfocado en smart contracts,
 
 ---
 
-## 🕶️ // CYBER_OPERATIONAL_STREAM (ATTACK & DEFENSE LOGS)
-```diff
-# [OFFENSIVE OPERATIONS - RED TEAM INITIALIZED]
-> python3 exploit_scanner.py --target perimeter_node --mode aggressive
-+ [ATTACK]: Executing port knocking sequence on target ports [22, 80, 443, 8080]
-+ [ATTACK]: Enumerating container vulnerabilities via custom python wrapper...
-- [EXPLOIT]: Buffer overflow vector identified in service layer [CVE-SIMULATION]
-! [ALERT]: Payload delivered successfully, establishing reverse shell tunnel...
+## 🧬 // CONTRIBUTION_MATRIX (LIVE_GRID)
 
-# [DEFENSIVE OPERATIONS - BLUE TEAM RESPONSE]
-> sudo iptables -A INPUT -p tcp --dport 8080 -j DROP
-+ [DEFENSE]: Anomaly detected in telemetry stream, activating automated firewall rules
-+ [DEFENSE]: Hardening Linux kernel parameters and isolating container namespace
-+ [SOC_STATUS]: Threat neutralized, IDS/IPS integrity verified at 100%
+<!-- Gráfico animado de actividad (Snake) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+## 🕶️ // CYBER_OPERATIONAL_STREAM (ATTACK & DEFENSE LIVE TERMINAL)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=15&background=0D1117&center=false&vCenter=true&width=900&lines=%3E+python3+exploit_scanner.py+--target+perimeter_node+--mode+aggressive;%5BRED_TEAM%5D:+Executing+port+knocking+sequence+on+ports+%5B22,+80,+443,+8080%5D;%5BEXPLOIT%5D:+Buffer+overflow+vector+identified+in+service+layer;%3E+sudo+iptables+-A+INPUT+-p+tcp+--dport+8080+-j+DROP;%5BBLUE_TEAM%5D:+Anomaly+detected,+activating+automated+firewall+rules;%5BSOC_STATUS%5D:+Threat+neutralized,+IDS/IPS+integrity+at+100%25" alt="Terminal Animation" />
+</p>
