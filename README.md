@@ -1,14 +1,19 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=26&center=true&vCenter=true&width=900&lines=🔐+Carlos+Enrique+Rodríguez+Araúz;⚡+Cybersecurity+Engineer+%7C+Python+Specialist;🚀+Cloud+Architect+%7C+Web3+%26+Blockchain+Dev;🛡️+Offensive+%2F+Defensive+Security+Ops;👾+Ethical+Hacking+%7C+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=26&center=true&vCenter=true&width=900&lines=🔐+Carlos+Enrique+Rodríguez+Araúz;⚡+Cybersecurity+Engineer+%7C+Python+Specialist;🚀+Cloud+Architect+%7C+Web3+%26+Blockchain+Dev;🛡️+Offensive+%2F+Defensive+Security+Ops;👾+Ethical+Hacking+%7C+DevSecOps+%7C+SOC+Analyst" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosarauz578-source&color=00f700&style=for-the-badge&label=ACCESS+LOGS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/SECURITY_STATE-SECURE-00F700?style=for-the-badge&logo=protonvpn&logoColor=black" alt="Status">
+  <img src="https://komarev.com/ghpvc/?username=carlosarauz578-source&color=00f700&style=for-the-badge&label=SOC+ACCESS+LOGS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/SECURITY__STATE-DEFCON_1-FF0000?style=for-the-badge&logo=protonvpn&logoColor=black" alt="Status">
   <img src="https://img.shields.io/badge/LATAM-Costa_Rica-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-FF0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
-  <img src="https://img.shields.io/badge/IDS-RUNNING-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="IDS">
+  <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F700?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
+  <img src="https://img.shields.io/badge/IDS%2FIPS-RUNNING-ffb700?style=for-the-badge&logo=wireshark&logoColor=white" alt="IDS">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-blueviolet?style=flat-square&logo=keybase" alt="Encryption">
+  <img src="https://img.shields.io/badge/VULN__SCAN-PASSED-success?style=flat-square&logo=awslambda" alt="Vuln Scan">
+  <img src="https://img.shields.io/badge/SYSTEM-SECURE-informational?style=flat-square&logo=linuxsecurity" alt="System">
 </p>
 
 ---
@@ -22,23 +27,22 @@
 ---
 
 ## 🛰️ // CORE_PROFILE
-Ingeniero enfocado en la intersección entre la **ciberseguridad ofensiva/defensiva**, el desarrollo de software de alto rendimiento con **Python**, arquitecturas **Cloud/DevSecOps** y la descentralización mediante **Web3 y Blockchain**.  
-Apasionado por la automatización de auditorías, el blindaje de contenedores y la creación de sistemas robustos.
+Ingeniero especializado en la intersección entre la **ciberseguridad ofensiva y defensiva**, desarrollo de software seguro con **Python**, arquitecturas **Cloud / DevSecOps** y sistemas descentralizados en **Web3 y Blockchain**. Enfocado en la automatización de auditorías, mitigación de vectores de ataque y blindaje de contenedores.
 
 ---
 
-## 🛠️ // TECHNICAL_STACK
+## 🛡️ // SECURITY_METRICS & CAPABILITIES
 
-| Capa Tecnológica | Herramientas & Frameworks |
-| :--- | :--- |
-| **Core & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-414141?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cybersecurity** | ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Red?style=flat-square&logo=kalilinux&logoColor=white) ![Red/Blue Team](https://img.shields.io/badge/Red%2FBlue_Team-000000?style=flat-square&logo=Wireshark&logoColor=white) ![Container Security](https://img.shields.io/badge/Docker_Sec-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Cloud & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Web3 & Blockchain** | ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=blue) ![Smart Contracts](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) |
+| Vector Operativo | Herramientas / Stack Técnico | Nivel de Dominio |
+| :--- | :--- | :--- |
+| **Core & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | `██████████` (Avanzado) |
+| **Ofensive Security** | ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Red?style=flat-square&logo=kalilinux&logoColor=white) ![Pentesting](https://img.shields.io/badge/Pentesting-Black?style=flat-square&logo=Wireshark&logoColor=white) | `█████████░` (Alto) |
+| **Defensive & DevSecOps** | ![Container Sec](https://img.shields.io/badge/Docker_Sec-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black) | `█████████░` (Alto) |
+| **Cloud & Web3** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | `████████░░` (Intermedio-Alto) |
 
 ---
 
-## 📊 // SYSTEM_METRICS
+## 📊 // SYSTEM_TELEMETRY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" alt="GitHub Stats" width="48%" />
@@ -80,9 +84,10 @@ Apasionado por la automatización de auditorías, el blindaje de contenedores y 
 
 ## 🕶️ // CYBER_TERMINAL
 ```diff
-+ SYSTEM ONLINE: Carlos Araúz
-+ STATUS: SECURE
-- THREATS: Mitigated
-+ MODE: Offensive & Defensive Security Ops
-+ FIREWALL: ACTIVE
-+ IDS: RUNNING
++ [INIT]: Establishing secure connection to node...
++ [AUTH]: User Carlos Araúz authenticated [Access Level: ROOT]
++ [STATUS]: SYSTEM SECURE & MONITORING ACTIVE
+- [THREAT_DETECTION]: 0 Critical vulnerabilities found
++ [FIREWALL]: Rules enforced (Port 22, 80, 443 locked)
++ [IDS/IPS]: Packet inspection running smoothly
++ [READY]: Awaiting operator commands...
