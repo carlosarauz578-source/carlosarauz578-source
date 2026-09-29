@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F700?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
 </p>
 
-<!-- Animación superior de escaneo cibernético táctico -->
+<!-- Animación superior de escaneo cibernético de élite -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=15&background=0D1117&center=true&vCenter=true&width=900&lines=%5B%E2%9A%A1%5D+INITIALIZING+QUANTUM+TACTICAL+INTERFACE...;%5B%F0%9F%94%92%5D+ESTABLISHING+MILITARY-GRADE+ENCRYPTION+AES-256;%5B%F0%9F%9B%A1%EF%B8%8F%5D+AI+THREAT+INTELLIGENCE+AND+SOC+MONITORING+ACTIVE;%5B%E2%9C%94%5D+SMART+CONTRACT+AUDIT+AND+BLOCKCHAIN+LEDGER+SYNCED" alt="Elite Cyber Animation" />
 </p>
@@ -38,23 +38,61 @@ Desarrollador **Full-Stack Web3 y Ciberseguridad**, enfocado en smart contracts,
 
 ## 🛡️ // SECURITY_METRICS & TACTICAL_CAPABILITIES
 
-| Vector Táctico / Operativo | Arsenal Tecnológico (Stack) | Telemetría de Dominio & Carga | Estado del Subsistema |
-| :--- | :--- | :--- | :--- |
-| **⚡ Core & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | `⚡ 98% [ADVANCED]` | [![Status](https://img.shields.io/badge/OPTIMIZED-00F700?style=flat-square&logo=cache&logoColor=black)]() |
-| **🚀 Web3 & Smart Contracts** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `🔥 92% [EXPERT]` | [![Status](https://img.shields.io/badge/SECURED-00F7CC?style=flat-square&logo=ethereum&logoColor=black)]() |
-| **🛡️ Defensive & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `🛡️ 95% [HARDENED]` | [![Status](https://img.shields.io/badge/HARDENED-FFB700?style=flat-square&logo=linuxsecurity&logoColor=black)]() |
-| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `☁️ 88% [OPERATIONAL]` | [![Status](https://img.shields.io/badge/DEPLOYED-0099FF?style=flat-square&logo=docker&logoColor=white)]() |
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_CORE_%26_SCRIPTING-Python_%7C_Bash-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-98%25_ADVANCED_⚡-00F700?style=for-the-badge&logo=cache&logoColor=black" />
+  <img src="https://img.shields.io/badge/SUBSYSTEM-OPTIMIZED-blueviolet?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_WEB3_%26_SMART_CONTRACTS-Solidity_%7C_JS-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-92%25_EXPERT_🔥-00FFCC?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/SUBSYSTEM-SECURED-success?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️_DEFENSIVE_%26_SYSTEMS-Linux_%7C_Cisco-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-95%25_HARDENED_🛡️-FFB700?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUBSYSTEM-ACTIVE_DEFENCE-informational?style=for-the-badge&logo=fortinet&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_CLOUD_%26_DEVOPS-AWS_%7C_Docker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-88%25_OPERATIONAL_☁️-0099FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUBSYSTEM-DEPLOYED-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
 ## 📁 // REPOSITORY_MODULES (TACTICAL_ACCESS_GRID)
 
-| ⚡ Módulo / Nodo Activo | 🛠️ Stack Tecnológico | 📡 Protocolo de Enlace & Telemetría | Panel de Control / Acceso |
-| :--- | :--- | :--- | :--- |
-| **[solidity-portfolio](https://github.com/carlosarauz578-source/solidity-portfolio)** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | `DeFi Auditing & Contracts` | [![CONECTAR](https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/solidity-portfolio) |
-| **[Blockchain-JahCrypto](https://github.com/carlosarauz578-source/Blockchain-JahCrypto)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Web3 Ledger & Nodes` | [![CONECTAR](https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/Blockchain-JahCrypto) |
-| **[nft-repository](https://github.com/carlosarauz578-source/nft-repository)** | ![Web3](https://img.shields.io/badge/Web3-00F7FF?style=flat-square&logo=ethereum&logoColor=black) | `Smart Asset Minting` | [![CONECTAR](https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/nft-repository) |
-| **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Offensive / Defensive Scripts` | [![CONECTAR](https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/solidity-portfolio">
+    <img src="https://img.shields.io/badge/📂_solidity--portfolio-DeFi_Auditing_%26_Contracts-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/Blockchain-JahCrypto">
+    <img src="https://img.shields.io/badge/📂_Blockchain--JahCrypto-Web3_Ledger_%26_Nodes-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/nft-repository">
+    <img src="https://img.shields.io/badge/📂_nft--repository-Smart_Asset_Minting-00F7FF?style=for-the-badge&logo=ethereum&logoColor=black" />
+    <img src="https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/CiberSegurity">
+    <img src="https://img.shields.io/badge/📂_CiberSegurity-Offensive_%2F_Defensive_Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NODE--ONLINE-00F700?style=for-the-badge&logo=gnometerminal&logoColor=black" />
+  </a>
+</p>
 
 ---
 
