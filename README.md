@@ -1,14 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=26&center=true&vCenter=true&width=900&lines=🔐+Carlos+Enrique+Rodríguez+Araúz;⚡+Cybersecurity+Engineer+%7C+Python+Specialist;🚀+Cloud+Architect+%7C+Web3+%26+Blockchain+Dev;🛡️+Offensive+%2F+Defensive+Security+Ops;👾+Ethical+Hacking+%7C+DevSecOps+%7C+SOC+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=26&center=true&vCenter=true&width=900&lines=🔐+Carlos+Enrique+Rodríguez+Araúz;⚡+Cybersecurity+%7C+Python+Specialist;🚀+Full--Stack+Web3+%26+Blockchain+Dev;🛡️+Offensive+%2F+Defensive+Security+Ops" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carlosarauz578-source&color=00f700&style=for-the-badge&label=SOC+ACCESS+LOGS" alt="Profile Views" />
   <a href="https://cr.linkedin.com/in/carlos-enrique-rodr%C3%ADguez-ara%C3%uz-6b217621b" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/SECURITY__STATE-DEFCON_1-FF0000?style=for-the-badge&logo=protonvpn&logoColor=black" alt="Status">
-  <img src="https://img.shields.io/badge/LATAM-Costa_Rica-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/LOCATION-Costa_Rica-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F700?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
-  <img src="https://img.shields.io/badge/IDS%2FIPS-RUNNING-ffb700?style=for-the-badge&logo=wireshark&logoColor=white" alt="IDS">
 </p>
 
 <p align="center">
@@ -28,30 +27,25 @@
 ---
 
 ## 🛰️ // CORE_PROFILE
-Ingeniero especializado en la intersección entre la **ciberseguridad ofensiva y defensiva**, desarrollo de software seguro con **Python**, arquitecturas **Cloud / DevSecOps** y sistemas descentralizados en **Web3 y Blockchain**. Enfocado en la automatización de auditorías, mitigación de vectores de ataque y blindaje de contenedores.
+Desarrollador **Full-Stack Web3 y Ciberseguridad**, enfocado en smart contracts, finanzas descentralizadas (DeFi), hardening de sistemas y automatización técnica en Python. Perfil técnico orientado a resultados y optimización de infraestructura segura.
 
 ---
 
 ## 🛡️ // SECURITY_METRICS & CAPABILITIES
 
-| Vector Operativo | Herramientas / Stack Técnico | Nivel de Dominio |
+| Vector Operativo | Stack Tecnológico | Nivel de Dominio |
 | :--- | :--- | :--- |
 | **Core & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | `██████████` (Avanzado) |
-| **Ofensive Security** | ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Red?style=flat-square&logo=kalilinux&logoColor=white) ![Pentesting](https://img.shields.io/badge/Pentesting-Black?style=flat-square&logo=Wireshark&logoColor=white) | `█████████░` (Alto) |
-| **Defensive & DevSecOps** | ![Container Sec](https://img.shields.io/badge/Docker_Sec-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black) | `█████████░` (Alto) |
-| **Cloud & Web3** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | `████████░░` (Intermedio-Alto) |
+| **Web3 & Smart Contracts** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `█████████░` (Alto) |
+| **Defensive & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `█████████░` (Alto) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `████████░░` (Intermedio-Alto) |
 
 ---
 
-## 📊 // SYSTEM_TELEMETRY
+## 📊 // SYSTEM_TELEMETRY (RED_TEAM vs BLUE_TEAM OPERATIONS)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosarauz578-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0D1117&side_Labels=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" alt="GitHub Stats" width="98%" />
 </p>
 
 <!-- Snake Animation Contribution Graph -->
@@ -76,19 +70,17 @@ Ingeniero especializado en la intersección entre la **ciberseguridad ofensiva y
 
 ---
 
-## 🎧 // FREQUENCY_STREAM
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing" />
-</p>
-
----
-
-## 🕶️ // CYBER_TERMINAL
+## 🕶️ // CYBER_OPERATIONAL_STREAM (ATTACK & DEFENSE LOGS)
 ```diff
-+ [INIT]: Establishing secure connection to node...
-+ [AUTH]: User Carlos Araúz authenticated [Access Level: ROOT]
-+ [STATUS]: SYSTEM SECURE & MONITORING ACTIVE
-- [THREAT_DETECTION]: 0 Critical vulnerabilities found
-+ [FIREWALL]: Rules enforced (Port 22, 80, 443 locked)
-+ [IDS/IPS]: Packet inspection running smoothly
-+ [READY]: Awaiting operator commands...
+# [OFFENSIVE OPERATIONS - RED TEAM INITIALIZED]
+> python3 exploit_scanner.py --target perimeter_node --mode aggressive
++ [ATTACK]: Executing port knocking sequence on target ports [22, 80, 443, 8080]
++ [ATTACK]: Enumerating container vulnerabilities via custom python wrapper...
+- [EXPLOIT]: Buffer overflow vector identified in service layer [CVE-SIMULATION]
+! [ALERT]: Payload delivered successfully, establishing reverse shell tunnel...
+
+# [DEFENSIVE OPERATIONS - BLUE TEAM RESPONSE]
+> sudo iptables -A INPUT -p tcp --dport 8080 -j DROP
++ [DEFENSE]: Anomaly detected in telemetry stream, activating automated firewall rules
++ [DEFENSE]: Hardening Linux kernel parameters and isolating container namespace
++ [SOC_STATUS]: Threat neutralized, IDS/IPS integrity verified at 100%
