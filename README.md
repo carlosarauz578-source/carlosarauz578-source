@@ -64,14 +64,25 @@ Ingeniero especializado en la intersección entre la **ciberseguridad ofensiva y
 
 ---
 
-## 🔥 // FEATURED_REPOSITORIES
+## 📁 // REPOSITORY_MODULES
 
-| 🛡️ Módulo / Proyecto | 📝 Descripción Técnica | 🔗 Enlace |
-| :--- | :--- | :--- |
-| **CiberSegurity** | Scripts avanzados, automatizaciones y laboratorios prácticos de auditoría. | [Repositorio](https://github.com/carlosarauz578-source/CiberSegurity) |
-| **Blockchain-AI-Crypto** | Experimentos con smart contracts e integración de modelos de IA aplicados a cripto. | [Repositorio](https://github.com/carlosarauz578-source/blockchain-AI-Crypto) |
-| **Container Vuln Engine** | Motor automatizado de análisis e inspección de vulnerabilidades en contenedores. | [Repositorio](https://github.com/carlosarauz578-source/container-vuln-engine) |
-| **ClientSecurity** | Utilidades y parches de blindaje enfocados en la seguridad de aplicaciones web. | [Repositorio](https://github.com/carlosarauz578-source/ClientSecurity) |
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/solidity-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=solidity-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
+  </a>
+  <a href="https://github.com/carlosarauz578-source/Blockchain-JahCrypto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=Blockchain-JahCrypto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/carlosarauz578-source/nft-repository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=nft-repository&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
+  </a>
+  <a href="https://github.com/carlosarauz578-source/CiberSegurity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=CiberSegurity&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
+  </a>
+</p>
 
 ---
 
