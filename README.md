@@ -64,25 +64,14 @@ Ingeniero especializado en la intersección entre la **ciberseguridad ofensiva y
 
 ---
 
-## 📁 // REPOSITORY_MODULES
+## 📁 // REPOSITORY_MODULES (ACCESS_GRID)
 
-<p align="center">
-  <a href="https://github.com/carlosarauz578-source/solidity-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=solidity-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
-  </a>
-  <a href="https://github.com/carlosarauz578-source/Blockchain-JahCrypto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=Blockchain-JahCrypto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/carlosarauz578-source/nft-repository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=nft-repository&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
-  </a>
-  <a href="https://github.com/carlosarauz578-source/CiberSegurity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosarauz578-source&repo=CiberSegurity&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F700&icon_color=00F700" width="48%" />
-  </a>
-</p>
+| ⚡ Módulo / Proyecto | 🛠️ Stack Principal | 🔗 Panel de Control / Enlace Directo |
+| :--- | :--- | :--- |
+| **[solidity-portfolio](https://github.com/carlosarauz578-source/solidity-portfolio)** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | [![Acceder](https://img.shields.io/badge/STATUS-ONLINE-00F700?style=for-the-badge&logo=git&logoColor=black)](https://github.com/carlosarauz578-source/solidity-portfolio) |
+| **[Blockchain-JahCrypto](https://github.com/carlosarauz578-source/Blockchain-JahCrypto)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Acceder](https://img.shields.io/badge/STATUS-ONLINE-00F700?style=for-the-badge&logo=git&logoColor=black)](https://github.com/carlosarauz578-source/Blockchain-JahCrypto) |
+| **[nft-repository](https://github.com/carlosarauz578-source/nft-repository)** | ![Web3](https://img.shields.io/badge/Web3-00F7FF?style=flat-square&logo=ethereum&logoColor=black) | [![Acceder](https://img.shields.io/badge/STATUS-ONLINE-00F700?style=for-the-badge&logo=git&logoColor=black)](https://github.com/carlosarauz578-source/nft-repository) |
+| **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Acceder](https://img.shields.io/badge/STATUS-ONLINE-00F700?style=for-the-badge&logo=git&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
 
 ---
 
