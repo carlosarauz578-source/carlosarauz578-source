@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carlosarauz578-source&color=00f700&style=for-the-badge&label=SOC+ACCESS+LOGS" alt="Profile Views" />
+  <a href="https://cr.linkedin.com/in/carlos-enrique-rodr%C3%ADguez-ara%C3%uz-6b217621b" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/SECURITY__STATE-DEFCON_1-FF0000?style=for-the-badge&logo=protonvpn&logoColor=black" alt="Status">
   <img src="https://img.shields.io/badge/LATAM-Costa_Rica-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00F700?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall">
