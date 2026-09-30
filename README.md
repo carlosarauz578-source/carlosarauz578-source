@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-                                                         ⬆️
   <sub>🛰️ <em>Paneles de acceso directo a los sitios web y estaciones orbitales desplegadas en vivo.</em></sub>
 </p>
 
@@ -32,6 +31,19 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,python,git,linux,bash,docker,ethereum,ipfs&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
+
+<p align="center">
+  <img src="Perfil/radar.svg" alt="Orbital Radar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="Perfil/certi.svg" alt="Certifications Grid" width="48%" />
+  <img src="Perfil/team.svg" alt="Command Team" width="48%" />
 </p>
 
 ---
@@ -56,7 +68,7 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 
 ---
 
-## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO)  ✝️🤍
+## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
