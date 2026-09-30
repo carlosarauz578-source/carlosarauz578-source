@@ -66,6 +66,33 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 </p>
 
 ---
+<!-- Herramientas de Ciberseguridad y Redes -->
+<p align="center">
+  <a href="https://nmap.org" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-013243?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  </a>
+  <a href="https://www.wireshark.org" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  </a>
+  <a href="https://www.metasploit.com" target="_blank">
+    <img src="https://img.shields.io/badge/Metasploit-FA4616?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  </a>
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  </a>
+  <a href="https://www.tenable.com/products/nessus" target="_blank">
+    <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  </a>
+  <a href="https://www.elastic.co/security" target="_blank">
+    <img src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic">
+  </a>
+</p>
 
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
