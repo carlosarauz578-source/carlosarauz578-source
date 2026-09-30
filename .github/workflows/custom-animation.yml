@@ -2,8 +2,8 @@ name: Generate Custom Security Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se ejecuta automáticamente todos los días
-  workflow_dispatch:     # Permite ejecutarlo manualmente desde la pestaña Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update Cyber Bomberman animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
