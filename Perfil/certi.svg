@@ -119,7 +119,7 @@
       <g class="anim-float">
         <text x="350" y="530" font-size="30" text-anchor="middle">🚶‍♂️</text>
       </g>
-      <text x="350" y="558" fill="#00FF66" font-family="monospace" font-size="18" font-weight="bold" text-anchor="middle" class="glowing-text">CCNA / AZ-104 / TryHackMe / NDG Linux</text>
+      <text x="340" y="558" fill="#00FF66" font-family="monospace" font-size="18" font-weight="bold" text-anchor="middle" class="glowing-text">CCNA / AZ-104 / TryHackMe / NDG Linux</text>
       <text x="595" y="522" fill="#00FF66" font-family="monospace" font-size="15" font-weight="bold" class="glowing-text">LVL 50</text>
     </g>
 
