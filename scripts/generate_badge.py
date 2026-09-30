@@ -1,68 +1,75 @@
 import os
-import urllib.request
-import json
 
-def get_github_repos(username):
-    """Consulta la cantidad de repositorios públicos desde la API de GitHub."""
-    try:
-        url = f"https://api.github.com/users/{username}"
-        # Usar el token de GitHub si está disponible en el entorno de GitHub Actions
-        headers = {'User-Agent': 'Python-Script'}
-        token = os.environ.get('GH_TOKEN') or os.environ.get('GITHUB_TOKEN')
-        if token:
-            headers['Authorization'] = f'Bearer {token}'
-            
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
-            return data.get('public_repos', 0)
-    except Exception as e:
-        print(f"Error al obtener repositorios: {e}")
-        return 12  # Valor por defecto
-
-def generate_svg(repo_count):
-    """Genera la estructura SVG con estilos CSS y animaciones integradas."""
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+def generate_svg():
+    """Genera la estructura SVG interactiva sin repositorios y con múltiples amenazas de seguridad."""
+    svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
     <defs>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&amp;display=swap');
-            .bg {{ fill: #0a0a16; }}
-            .title {{ font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 24px; fill: #00ffff; letter-spacing: 2px; }}
-            .hud-text {{ font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 14px; fill: #ff00ff; }}
-            .stat-val {{ font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 18px; fill: #00ff66; }}
+            .bg { fill: #0a0a16; }
+            .title { font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 22px; fill: #00ffff; letter-spacing: 2px; }
+            .hud-text { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 13px; fill: #ff00ff; }
             
-            @keyframes pulse-glow {{
-                0%, 100% {{ filter: drop-shadow(0 0 2px #00ffff); }}
-                50% {{ filter: drop-shadow(0 0 10px #00ffff); }}
-            }}
-            @keyframes move-laser {{
-                0% {{ transform: translateX(0); opacity: 1; }}
-                100% {{ transform: translateX(700px); opacity: 0.8; }}
-            }}
-            @keyframes float-ship {{
-                0%, 100% {{ transform: translateY(0); }}
-                50% {{ transform: translateY(-8px); }}
-            }}
-            @keyframes enemy-move {{
-                0% {{ transform: translateX(750px); }}
-                100% {{ transform: translateX(-50px); }}
-            }}
+            /* Animaciones Cibernéticas */
+            @keyframes pulse-glow {
+                0%, 100% { filter: drop-shadow(0 0 2px #00ffff); }
+                50% { filter: drop-shadow(0 0 10px #00ffff); }
+            }
+            @keyframes float-ship {
+                0%, 100% { transform: translateY(0); }
+                50% { transform: translateY(-12px); }
+            }
+            @keyframes shoot-laser {
+                0% { transform: translateX(0) scaleX(0.2); opacity: 0; }
+                20% { opacity: 1; transform: translateX(50px) scaleX(1); }
+                80% { opacity: 1; transform: translateX(450px) scaleX(1); }
+                100% { transform: translateX(500px) scaleX(0.2); opacity: 0; }
+            }
+            /* Múltiples amenazas con tiempos y rutas escalonadas */
+            @keyframes enemy-threat-1 {
+                0% { transform: translate(750px, 40px); opacity: 1; scale: 1; }
+                60% { transform: translate(320px, 40px); opacity: 1; scale: 1; }
+                65% { transform: translate(300px, 40px); opacity: 0; scale: 1.8; fill: #00ff66; }
+                100% { transform: translate(300px, 40px); opacity: 0; }
+            }
+            @keyframes enemy-threat-2 {
+                0% { transform: translate(800px, 130px); opacity: 0; }
+                30% { transform: translate(800px, 130px); opacity: 1; scale: 1; }
+                75% { transform: translate(380px, 130px); opacity: 1; scale: 1; }
+                80% { transform: translate(360px, 130px); opacity: 0; scale: 1.8; }
+                100% { transform: translate(360px, 130px); opacity: 0; }
+            }
+            @keyframes enemy-threat-3 {
+                0% { transform: translate(850px, -40px); opacity: 0; }
+                40% { transform: translate(850px, -40px); opacity: 1; scale: 1; }
+                85% { transform: translate(430px, -40px); opacity: 1; scale: 1; }
+                90% { transform: translate(410px, -40px); opacity: 0; scale: 1.8; }
+                100% { transform: translate(410px, -40px); opacity: 0; }
+            }
+
+            .ship-group { animation: float-ship 4s ease-in-out infinite; }
+            .laser-1 { animation: shoot-laser 2s linear infinite; }
+            .laser-2 { animation: shoot-laser 2s linear infinite 0.7s; }
+            .laser-3 { animation: shoot-laser 2s linear infinite 1.4s; }
             
-            .ship {{ animation: float-ship 3s ease-in-out infinite; }}
-            .laser {{ animation: move-laser 1.2s linear infinite; }}
-            .enemy {{ animation: enemy-move 6s linear infinite; }}
-            .glow-box {{ animation: pulse-glow 2s infinite; }}
+            .enemy-1 { animation: enemy-threat-1 5s linear infinite; }
+            .enemy-2 { animation: enemy-threat-2 5s linear infinite; }
+            .enemy-3 { animation: enemy-threat-3 5s linear infinite; }
+            
+            .glow-box { animation: pulse-glow 2s infinite; }
         </style>
         
         <linearGradient id="grad-hud" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#12122c" stop-opacity="0.9"/>
-            <stop offset="100%" stop-color="#050511" stop-opacity="0.95"/>
+            <stop offset="0%" stop-color="#12122c" stop-opacity="0.95"/>
+            <stop offset="100%" stop-color="#050511" stop-opacity="0.98"/>
         </linearGradient>
     </defs>
 
+    <!-- Fondo Cyberpunk -->
     <rect width="800" height="400" class="bg"/>
     
-    <g stroke="#00ffff" stroke-opacity="0.1" stroke-width="1">
+    <!-- Grid Cibernético -->
+    <g stroke="#00ffff" stroke-opacity="0.08" stroke-width="1">
         <line x1="0" y1="100" x2="800" y2="100"/>
         <line x1="0" y1="200" x2="800" y2="200"/>
         <line x1="0" y1="300" x2="800" y2="300"/>
@@ -71,48 +78,66 @@ def generate_svg(repo_count):
         <line x1="600" y1="0" x2="600" y2="400"/>
     </g>
 
+    <!-- Panel HUD Principal -->
     <rect x="30" y="30" width="740" height="340" rx="15" fill="url(#grad-hud)" stroke="#00ffff" stroke-width="2" class="glow-box"/>
     
+    <!-- Encabezado HUD -->
     <text x="60" y="80" class="title">CYBER SPACE DEFENDER</text>
-    <text x="600" y="80" class="hud-text">SYS.ONLINE</text>
+    <text x="620" y="80" class="hud-text">SECURITY: ACTIVE</text>
     <line x1="60" y1="95" x2="740" y2="95" stroke="#ff00ff" stroke-width="1.5" stroke-dasharray="5,5"/>
 
-    <g transform="translate(60, 130)">
-        <rect x="0" y="0" width="200" height="80" rx="8" fill="#0a0a20" stroke="#00ff66" stroke-width="1"/>
-        <text x="20" y="30" class="hud-text" font-size="12">PUBLIC REPOS</text>
-        <text x="20" y="60" class="stat-val">{repo_count} REPOSITORIES</text>
+    <!-- Zona de Combate Central -->
+    <g transform="translate(80, 180)">
+        
+        <!-- Nave Defensora con Animación de Flote -->
+        <g class="ship-group">
+            <polygon points="0,0 55,-15 55,15" fill="#00ffff" filter="drop-shadow(0 0 8px #00ffff)"/>
+            <polygon points="12,-8 42,-3 42,3 12,8" fill="#1a1a3a" stroke="#ff00ff" stroke-width="1.5"/>
+            <polygon points="5,-5 0,0 5,5" fill="#ff9900"/>
+        </g>
+
+        <!-- Láseres saliendo perfectamente desde la punta de la nave (X=55, Y=0) -->
+        <g transform="translate(55, 0)">
+            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-1" filter="drop-shadow(0 0 6px #00ff66)"/>
+            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-2" filter="drop-shadow(0 0 6px #00ff66)"/>
+            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-3" filter="drop-shadow(0 0 6px #00ff66)"/>
+        </g>
+
+        <!-- Amenaza 1 (Hacker / Malware) -->
+        <g class="enemy-1">
+            <circle cx="0" cy="0" r="14" fill="#ff0055" filter="drop-shadow(0 0 10px #ff0055)"/>
+            <circle cx="-4" cy="-3" r="3" fill="#ffffff"/>
+            <circle cx="4" cy="-3" r="3" fill="#ffffff"/>
+            <line x1="-8" y1="-8" x2="-2" y2="-2" stroke="#ff0055" stroke-width="2"/>
+            <line x1="8" y1="-8" x2="2" y2="-2" stroke="#ff0055" stroke-width="2"/>
+        </g>
+
+        <!-- Amenaza 2 (Vulnerabilidad Crítica) -->
+        <g class="enemy-2">
+            <polygon points="0,-12 12,10 -12,10" fill="#ffcc00" filter="drop-shadow(0 0 10px #ffcc00)"/>
+            <text x="-3" y="5" font-family="monospace" font-weight="900" font-size="12" fill="#0a0a16">!</text>
+        </g>
+
+        <!-- Amenaza 3 (Exploit / Inyección de Código) -->
+        <g class="enemy-3">
+            <rect x="-10" y="-10" width="20" height="20" rx="3" fill="#bd00ff" filter="drop-shadow(0 0 10px #bd00ff)"/>
+            <text x="-7" y="5" font-family="'Orbitron', sans-serif" font-weight="700" font-size="10" fill="#ffffff">01</text>
+        </g>
+
     </g>
 
-    <g transform="translate(300, 140)">
-        <g class="ship" transform="translate(50, 40)">
-            <polygon points="0,20 40,10 40,30" fill="#00ffff" filter="drop-shadow(0 0 5px #00ffff)"/>
-            <polygon points="10,12 30,5 30,35 10,28" fill="#1a1a3a" stroke="#ff00ff" stroke-width="1.5"/>
-            <polygon points="5,15 0,20 5,25" fill="#ff9900"/>
-        </g>
-        <rect x="100" y="57" width="40" height="3" fill="#00ff66" class="laser" rx="1.5"/>
-        <g class="enemy" transform="translate(320, 35)">
-            <circle cx="15" cy="15" r="12" fill="#ff0055" filter="drop-shadow(0 0 8px #ff0055)"/>
-            <circle cx="11" cy="12" r="3" fill="#ffffff"/>
-            <circle cx="19" cy="12" r="3" fill="#ffffff"/>
-            <line x1="3" y1="3" x2="9" y2="9" stroke="#ff0055" stroke-width="2"/>
-            <line x1="27" y1="3" x2="21" y2="9" stroke="#ff0055" stroke-width="2"/>
-        </g>
-    </g>
-
-    <text x="60" y="340" fill="#8888aa" font-family="'Orbitron', sans-serif" font-size="10">STATUS: DEFENDING PERIMETER // REAL-TIME GITHUB SYNC</text>
-</svg>'''
+    <!-- Barra de Estado Inferior -->
+    <text x="60" y="340" fill="#8888aa" font-family="'Orbitron', sans-serif" font-size="10">STATUS: INTERCEPTING THREATS &amp; VULNERABILITIES // SYSTEM SECURE</text>
+</svg>
+'''
+    return svg_content
 
 if __name__ == "__main__":
     os.makedirs("dist", exist_ok=True)
-    
-    # Usuario detectado en el contexto
-    username = "carlosarauz578-source"
-    repos = get_github_repos(username)
-    
-    svg_data = generate_svg(repos)
+    svg_data = generate_svg()
     file_path = "dist/space-defender.svg"
     
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(svg_data)
     
-    print(f"SVG actualizado correctamente para {username}: {repos} repos.")
+    print("¡SVG rediseñado correctamente sin repositorios y con múltiples amenazas!")
