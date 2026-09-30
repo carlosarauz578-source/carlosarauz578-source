@@ -2,8 +2,8 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # corre cada día a medianoche
-  workflow_dispatch:       # permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,5 +17,5 @@ jobs:
         with:
           github_user_name: carlosarauz578-source
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
