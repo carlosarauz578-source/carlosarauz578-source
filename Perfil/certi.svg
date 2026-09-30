@@ -127,7 +127,7 @@
     <g>
       <polygon points="122,593 578,593 670,700 30,700" fill="#0c253d" stroke="#00CCFF" stroke-width="2.5"/>
       <text x="350" y="630" font-size="16" text-anchor="middle">🌱 🪨 🔑</text>
-      <text x="350" y="658" fill="#00CCFF" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle" class="glowing-text">Security+ / AZ-900 / Google Cyber / Microsoft Learn</text>
+      <text x="350" y="658" fill="#00CCFF" font-family="monospace" font-size="20" font-weight="bold" text-anchor="middle" class="glowing-text">Security+ / AZ-900 / Google Cyber / Microsoft Learn</text>
     </g>
   </g>
 
