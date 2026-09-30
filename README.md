@@ -66,34 +66,37 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 </p>
 
 ---
-<!-- Herramientas de Ciberseguridad y Redes -->
+<!-- Iconos de Herramientas de Ciberseguridad -->
 <p align="center">
-  <a href="https://nmap.org" target="_blank">
-    <img src="https://img.shields.io/badge/Nmap-013243?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  </a>
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  </a>
-  <a href="https://www.metasploit.com" target="_blank">
-    <img src="https://img.shields.io/badge/Metasploit-FA4616?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  </a>
-  <a href="https://www.kali.org" target="_blank">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  </a>
-  <a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  </a>
-  <a href="https://www.elastic.co/security" target="_blank">
-    <img src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic">
-  </a>
+  <!-- NMAP -->
+  <img src="https://simpleicons.org/icons/nmap.svg" alt="Nmap" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- WIRESHARK -->
+  <img src="https://simpleicons.org/icons/wireshark.svg" alt="Wireshark" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- BURP SUITE -->
+  <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- METASPLOIT -->
+  <img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- KALI LINUX -->
+  <img src="https://simpleicons.org/icons/kalilinux.svg" alt="Kali Linux" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- NESSUS -->
+  <img src="https://simpleicons.org/icons/nessus.svg" alt="Nessus" height="35px" style="filter: invert(1); margin: 5px;">
+
+  <!-- BASH (Si usas la terminal) -->
+  <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="35px" style="filter: invert(1); margin: 5px;">
+  
+  <!-- Oid-Stack -->
+  <img src="https://simpleicons.org/icons/elastic-security.svg" alt="Elastic Security" height="35px" style="filter: invert(1); margin: 5px;">
 </p>
 
+<!-- Texto explicativo centrado -->
+<p align="center">
+  <sub>🛠️ <em>Herramientas clave del arsenal ofensivo y defensivo desplegadas en el entorno.</em></sub>
+</p>
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
 <p align="center">
