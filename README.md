@@ -1,8 +1,8 @@
 # ¡Hola, soy Carlos Enrique! 👋
 
 <div align="center">
-  <!-- Aquí se muestra tu banner animado generado por GitHub Actions -->
-  <img src="dist/space-defender.svg" alt="Cyber Space Defender" width="100%">
+  <!-- Banner animado de Cyber Space Defender con control de caché -->
+  <img src="dist/space-defender.svg?v=2" alt="Cyber Space Defender" width="100%">
 </div>
 
 ---
