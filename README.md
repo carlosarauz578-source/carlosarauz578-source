@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=26&center=true&vCenter=true&width=900&lines=🌌+HD+3D+ORBITAL+COMMAND+CENTER+%7C+LIVE+GRID;🚀+GALACTIC+SECURITY+DEFENSE+OPS+%7C+ACTIVE;🛰️+BLOCKCHAIN+ORBITAL+STATIONS;🔐+MILITARY-GRADE+STELLAR+ENCRYPTION+AES-256" alt="3D Cyber Command Center Typing SVG" />
 </h1>
 
-<!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón -->
+<!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón --> 
 <p align="center">                            
   <a href="https://carlosarauz578-source.github.io/asteroid-firewall/" target="_blank">
     <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
