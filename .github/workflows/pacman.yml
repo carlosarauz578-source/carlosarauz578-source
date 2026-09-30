@@ -1,0 +1,22 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # corre cada día
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman/Bomberman graph
+        uses: maurodesouza/pacman-contribution-graph@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: carlosarauz578-source
+          # Puedes cambiar el juego: pacman, bomberman, etc.
+          game: bomberman
+          output: pacman-output
