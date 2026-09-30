@@ -1,21 +1,7 @@
-name: Generate Snake Game
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Graph
-        uses: Platane/snk@master
-        with:
-          github_user_name: carlosarauz578-source
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
