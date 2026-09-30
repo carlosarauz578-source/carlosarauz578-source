@@ -1,9 +1,9 @@
-name: Snake Game (Pacman Style)
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # corre cada día a medianoche
-  workflow_dispatch:       # permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,9 +12,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake/Pacman Graph
+      - name: Generate Snake Graph
         uses: Platane/snk@master
         with:
           github_user_name: carlosarauz578-source
           outputs: |
-            pacman-output/pacman.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
