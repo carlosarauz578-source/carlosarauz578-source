@@ -103,7 +103,7 @@
     <!-- ================= NIVEL 2: EDIFICIOS / INTERMEDIO ================= -->
     <g>
       <polygon points="232,313 468,313 520,450 180,450" fill="#353008" stroke="#FFCC00" stroke-width="2.5"/>
-      <text x="220" y="382" font-size="30">🏢</text>
+      <text x="180" y="382" font-size="30">🏢</text>
       <g class="anim-float">
         <text x="350" y="390" font-size="22" text-anchor="middle">🧗‍♂️</text>
       </g>
