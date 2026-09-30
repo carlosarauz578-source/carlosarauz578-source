@@ -66,42 +66,42 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 <p align="center">
   <!-- NMAP (Azul Neón) -->
   <a href="https://nmap.org/" target="_blank" title="Nmap - Escaneo de Redes">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="90px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- WIRESHARK (Turquesa / Cian) -->
   <a href="https://www.wireshark.org/" target="_blank" title="Wireshark - Análisis de Protocolos">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="80px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- BURP SUITE (Naranja Neón) -->
   <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite - Web Security Scanner">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.BurpSuite.jpg" alt="Burp Suite" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 115, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.BurpSuite.jpg" alt="Burp Suite" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 115, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- METASPLOIT (Rojo Fuego) -->
   <a href="https://www.metasploit.com/" target="_blank" title="Metasploit Framework - Explotación">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Metaploit.jpg" alt="Metasploit" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 40, 40, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Metaploit.jpg" alt="Metasploit" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 40, 40, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- KALI LINUX (Azul Galáctico) -->
   <a href="https://www.kali.org/" target="_blank" title="Kali Linux - Distribución de Seguridad">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.KaliLinux.jpg" alt="Kali Linux" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(80, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.KaliLinux.jpg" alt="Kali Linux" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(80, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- NESSUS (Gris Metálico Brillante) -->
   <a href="https://www.tenable.com/products/nessus/" target="_blank" title="Nessus - Vulnerability Scanner">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Nessus.jpg" alt="Nessus" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(180, 180, 180, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Nessus.jpg" alt="Nessus" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(180, 180, 180, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- BASH (Blanco / Plata Cósmico) -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash - Terminal y Scripting">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.GNUBash.jpg" alt="Bash" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(240, 240, 240, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.5); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.GNUBash.jpg" alt="Bash" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(240, 240, 240, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.5); margin: 0 6px;">
   </a>
   
   <!-- ELASTIC SECURITY (Amarillo Oro / Neón) -->
   <a href="https://www.elastic.co/security" target="_blank" title="Elastic Security - SIEM & XDR">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.ElasticSecurity.jpg" alt="Elastic Security" height="42px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.ElasticSecurity.jpg" alt="Elastic Security" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 </p>
 
