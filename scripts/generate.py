@@ -148,5 +148,5 @@ svg_content = f"""<svg width="950" height="260" viewBox="0 0 950 260" xmlns="htt
 </svg>
 """
 
-with open("dist/custom-security-animation.svg", "w", encoding="utf-8") as f:
+with open("dist/space-defender.svg", "w", encoding="utf-8") as f:
     f.write(svg_content)
