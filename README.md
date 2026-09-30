@@ -37,13 +37,8 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 | **[nft-repository](https://github.com/carlosarauz578-source/nft-repository)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Smart Asset Nebula`<br><sub>*Centro de acuñación y gestión de activos digitales descentralizados.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/nft-repository) |
 | **[CiberTermux](https://github.com/carlosarauz578-source/CiberTermux)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Mobile Sec-Ops Terminal`<br><sub>*Herramientas y scripts de ciberseguridad optimizados para entornos móviles.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberTermux) |
 | **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Offensive / Defensive Orbit`<br><sub>*Arsenal de scripts automatizados para evaluación de vulnerabilidades.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
-| **[profile-readme-generator](https://github.com/carlosarauz578-source/profile-readme-generator)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `HUD Profile Forge`<br><sub>*Generador avanzado de perfiles y documentación estelar interactiva.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/profile-readme-generator) |
 
 ---
-
-## 🧬 // CONTRIBUTION_MATRIX (COSMIC_GRID)
-
-<h3 align="center">🎮 Nodo de Juego Interactivo / Matriz de Actividad</h3>
 
 <p align="center">
   <picture>
