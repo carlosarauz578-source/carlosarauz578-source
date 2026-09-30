@@ -109,12 +109,6 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 <p align="center">
   <sub>🛠️ <em>Herramientas clave del arsenal ofensivo y defensivo desplegadas en el entorno.</em></sub>
 </p>
----
-
-<!-- Texto explicativo centrado -->
-<p align="center">
-  <sub>🛠️ <em>Herramientas clave del arsenal ofensivo y defensivo desplegadas en el entorno.</em></sub>
-</p>
 
 ---
 
