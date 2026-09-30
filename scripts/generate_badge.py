@@ -1,7 +1,7 @@
 import os
 
 def generate_svg():
-    """Genera la estructura SVG interactiva sin repositorios y con múltiples amenazas de seguridad."""
+    """Genera la estructura SVG interactiva con mayor movimiento vertical para la nave."""
     svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
     <defs>
         <style>
@@ -15,9 +15,10 @@ def generate_svg():
                 0%, 100% { filter: drop-shadow(0 0 2px #00ffff); }
                 50% { filter: drop-shadow(0 0 10px #00ffff); }
             }
+            /* Movimiento vertical ampliado para que suba y baje más */
             @keyframes float-ship {
                 0%, 100% { transform: translateY(0); }
-                50% { transform: translateY(-12px); }
+                50% { transform: translateY(-38px); }
             }
             @keyframes shoot-laser {
                 0% { transform: translateX(0) scaleX(0.2); opacity: 0; }
@@ -47,7 +48,7 @@ def generate_svg():
                 100% { transform: translate(410px, -40px); opacity: 0; }
             }
 
-            .ship-group { animation: float-ship 4s ease-in-out infinite; }
+            .ship-with-laser { animation: float-ship 4s ease-in-out infinite; }
             .laser-1 { animation: shoot-laser 2s linear infinite; }
             .laser-2 { animation: shoot-laser 2s linear infinite 0.7s; }
             .laser-3 { animation: shoot-laser 2s linear infinite 1.4s; }
@@ -89,18 +90,21 @@ def generate_svg():
     <!-- Zona de Combate Central -->
     <g transform="translate(80, 180)">
         
-        <!-- Nave Defensora con Animación de Flote -->
-        <g class="ship-group">
-            <polygon points="0,0 55,-15 55,15" fill="#00ffff" filter="drop-shadow(0 0 8px #00ffff)"/>
-            <polygon points="12,-8 42,-3 42,3 12,8" fill="#1a1a3a" stroke="#ff00ff" stroke-width="1.5"/>
-            <polygon points="5,-5 0,0 5,5" fill="#ff9900"/>
-        </g>
+        <!-- Grupo unificado de la nave y sus láseres para que ambos suban y bajen juntos -->
+        <g class="ship-with-laser">
+            <!-- Nave Defensora -->
+            <g>
+                <polygon points="0,0 55,-15 55,15" fill="#00ffff" filter="drop-shadow(0 0 8px #00ffff)"/>
+                <polygon points="12,-8 42,-3 42,3 12,8" fill="#1a1a3a" stroke="#ff00ff" stroke-width="1.5"/>
+                <polygon points="5,-5 0,0 5,5" fill="#ff9900"/>
+            </g>
 
-        <!-- Láseres saliendo perfectamente desde la punta de la nave (X=55, Y=0) -->
-        <g transform="translate(55, 0)">
-            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-1" filter="drop-shadow(0 0 6px #00ff66)"/>
-            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-2" filter="drop-shadow(0 0 6px #00ff66)"/>
-            <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-3" filter="drop-shadow(0 0 6px #00ff66)"/>
+            <!-- Láseres saliendo perfectamente desde la punta de la nave (X=55, Y=0) -->
+            <g transform="translate(55, 0)">
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-1" filter="drop-shadow(0 0 6px #00ff66)"/>
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-2" filter="drop-shadow(0 0 6px #00ff66)"/>
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-3" filter="drop-shadow(0 0 6px #00ff66)"/>
+            </g>
         </g>
 
         <!-- Amenaza 1 (Hacker / Malware) -->
@@ -140,4 +144,4 @@ if __name__ == "__main__":
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(svg_data)
     
-    print("¡SVG rediseñado correctamente sin repositorios y con múltiples amenazas!")
+    print("¡SVG actualizado correctamente con mayor desplazamiento vertical!")
