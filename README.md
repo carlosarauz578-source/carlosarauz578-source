@@ -1,51 +1,39 @@
-## Selected work
-
-<div align="center">
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=carlosarauz578-source&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268277406%3Fv%3D4" alt="carlosarauz578-source hero visual" />
-</p>
-
-<h1>Carlos Enrique Rodriguez Arauz</h1>
-<p><b>Freelance developer or consultant</b></p>
-
-</div>
-
-## The idea behind the work
-
-> Profesional en formación en blockchain, ciberseguridad y análisis tecnológico. Desarrollo proyectos autónomos en smart contracts, DAO y DeFi, basados en guías.
-
-- 👥 **0** followers · **1** following
-
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/carlosarauz578-source/carlosarauz578-source">carlosarauz578-source</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/carlosarauz578-source/CiberTermux">CiberTermux</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/carlosarauz578-source/CiberSegurity">CiberSegurity</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/carlosarauz578-source/nft-repository">nft-repository</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
-
-## Details worth noticing
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=carlosarauz578-source&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268277406%3Fv%3D4" alt="carlosarauz578-source highlights visual" />
-</p>
-
-<p><b>Carlos Enrique Rodriguez Arauz</b> is shipping 8 public projects with 0 stars of proof.</p>
-
-## Creative toolkit
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `Solidity` `Jupyter Notebook` ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) `Dockerfile`
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=carlosarauz578-source&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F268277406%3Fv%3D4" alt="carlosarauz578-source social visual" />
-</p>
-
-<a href="https://github.com/carlosarauz578-source">GitHub</a>
-
-<p align="center"><sub>Carlos Enrique Rodriguez Arauz · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Radar orbital avanzado con cambio de color -->
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <circle cx="150" cy="150" r="140" fill="black" stroke="lime" stroke-width="2"/>
+  
+  <!-- Líneas de cuadrícula -->
+  <circle cx="150" cy="150" r="40" fill="none" stroke="lime" stroke-width="0.5"/>
+  <circle cx="150" cy="150" r="80" fill="none" stroke="lime" stroke-width="0.5"/>
+  <circle cx="150" cy="150" r="120" fill="none" stroke="lime" stroke-width="0.5"/>
+  
+  <!-- Línea giratoria (haz del radar) -->
+  <line x1="150" y1="150" x2="150" y2="10" stroke="lime" stroke-width="2">
+    <animateTransform attributeName="transform" attributeType="XML"
+      type="rotate" from="0 150 150" to="360 150 150" dur="4s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Nodos de seguridad con cambio de color -->
+  <circle cx="190" cy="80" r="10" fill="green">
+    <animate attributeName="fill" values="green;red;green" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="80" cy="200" r="10" fill="green">
+    <animate attributeName="fill" values="green;red;green" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="220" cy="220" r="10" fill="green">
+    <animate attributeName="fill" values="green;red;green" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="100" cy="100" r="10" fill="green">
+    <animate attributeName="fill" values="green;red;green" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Íconos de seguridad encima de los nodos -->
+  <text x="185" y="85" font-size="16">🔐</text>
+  <text x="75" y="205" font-size="16">🛰️</text>
+  <text x="215" y="225" font-size="16">🛡️</text>
+  <text x="95" y="105" font-size="16">🚀</text>
+</svg>
