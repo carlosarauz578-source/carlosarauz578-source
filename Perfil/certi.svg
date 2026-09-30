@@ -66,7 +66,7 @@
   <text x="5" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">NDG Linux / TryHackMe</text>
 
   <circle cx="665" cy="490" r="6" fill="#4ade80" class="node-orbit"/>
-  <text x="515" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">SBT: DFIR &amp; Vuln Mgmt</text>
+  <text x="510" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">SBT: DFIR &amp; Vuln Mgmt</text>
 
 
   <!-- ================= CONTENEDOR PIRAMIDAL CENTRAL (Recortado como Triángulo) ================= -->
