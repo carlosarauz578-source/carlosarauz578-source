@@ -29,7 +29,7 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 
 ## 🚀 // TACTICAL_ACCESS_GRID (ESTACIONES ESPACIALES Y REPOSITORIOS)
 
-| 🛰️ Estación Orbital / Nodo Activo | 🛠️ Stack Tecnológico | 📡 Protocolo Galáctico & Descripción | Panel de Control / Acceso |
+| 🛰️ Estación Orbital / Nodo Activo | 🛠️️ Stack Tecnológico | 📡 Protocolo Galáctico & Descripción | Panel de Control / Acceso |
 | :--- | :--- | :--- | :--- |
 | **[solidity-portfolio](https://github.com/carlosarauz578-source/solidity-portfolio)** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | `DeFi Orbital Contracts`<br><sub>*Plataforma satelital de auditoría de contratos inteligentes financieros.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/solidity-portfolio) |
 | **[Blockchain-JahCrypto](https://github.com/carlosarauz578-source/Blockchain-JahCrypto)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Web3 Ledger Cluster`<br><sub>*Red de nodos interconectados para transacciones en cadena de bloques.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/Blockchain-JahCrypto) |
@@ -37,19 +37,19 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 | **[nft-repository](https://github.com/carlosarauz578-source/nft-repository)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Smart Asset Nebula`<br><sub>*Centro de acuñación y gestión de activos digitales descentralizados.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/nft-repository) |
 | **[CiberTermux](https://github.com/carlosarauz578-source/CiberTermux)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Mobile Sec-Ops Terminal`<br><sub>*Herramientas y scripts de ciberseguridad optimizados para entornos móviles.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberTermux) |
 | **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Offensive / Defensive Orbit`<br><sub>*Arsenal de scripts automatizados para evaluación de vulnerabilidades.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
+| **[profile-readme-generator](https://github.com/carlosarauz578-source/profile-readme-generator)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `HUD Profile Forge`<br><sub>*Generador avanzado de perfiles y documentación estelar interactiva.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/profile-readme-generator) |
 
 ---
 
 ## 🧬 // CONTRIBUTION_MATRIX (COSMIC_GRID)
 
-<h3 align="center">🛰️ Estado de Actividad de Red en Tiempo Real</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosarauz578-source&theme=react-dark&hide_border=true&area=true&line=00ffcc&point=00e5ff&background=0a0f1d" alt="Advanced Activity Graph" />
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,19 +60,10 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
 </p>
 
----
-
-### 🛠️ // STACK_TECNOLÓGICO_Y_HERRAMIENTAS
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,python,javascript,typescript,web3,git,github,vscode,linux,html,css" alt="Tech Stack Icons" />
-</div>
-
----
-
-### 📊 // ESTADÍSTICAS_Y_TELEMETRÍA
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
-</p>
+```bash
+root@carlosarauz-cyber-command:~# ./launch_orbital_defenses.sh --secure
+[INFO] Initializing quantum encryption protocols (AES-256-GCM)... [OK]
+[SUCCESS] P2P Mesh Network connected across 32 active stellar nodes.
+[ALERT] Zero-day intrusion vector intercepted by Asteroid Firewall. Target quarantined.
+[BLOCKCHAIN] Block #842,911 successfully validated and signed on mainnet.
+> System status: ALL TACTICAL NODES 100% OPERATIONAL & SECURE.
