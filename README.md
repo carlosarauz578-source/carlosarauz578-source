@@ -39,8 +39,6 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 | **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Offensive / Defensive Orbit`<br><sub>*Arsenal de scripts automatizados para evaluación de vulnerabilidades.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
 
 ---
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
