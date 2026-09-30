@@ -1,7 +1,7 @@
 import os
 
 def generate_svg():
-    """Genera la estructura SVG interactiva con mayor movimiento vertical para la nave."""
+    """Genera la estructura SVG utilizando animaciones nativas SMIL compatibles con GitHub."""
     svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
     <defs>
         <style>
@@ -9,55 +9,6 @@ def generate_svg():
             .bg { fill: #0a0a16; }
             .title { font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 22px; fill: #00ffff; letter-spacing: 2px; }
             .hud-text { font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 13px; fill: #ff00ff; }
-            
-            /* Animaciones Cibernéticas */
-            @keyframes pulse-glow {
-                0%, 100% { filter: drop-shadow(0 0 2px #00ffff); }
-                50% { filter: drop-shadow(0 0 10px #00ffff); }
-            }
-            /* Movimiento vertical ampliado para que suba y baje más */
-            @keyframes float-ship {
-                0%, 100% { transform: translateY(0); }
-                50% { transform: translateY(-38px); }
-            }
-            @keyframes shoot-laser {
-                0% { transform: translateX(0) scaleX(0.2); opacity: 0; }
-                20% { opacity: 1; transform: translateX(50px) scaleX(1); }
-                80% { opacity: 1; transform: translateX(450px) scaleX(1); }
-                100% { transform: translateX(500px) scaleX(0.2); opacity: 0; }
-            }
-            /* Múltiples amenazas con tiempos y rutas escalonadas */
-            @keyframes enemy-threat-1 {
-                0% { transform: translate(750px, 40px); opacity: 1; scale: 1; }
-                60% { transform: translate(320px, 40px); opacity: 1; scale: 1; }
-                65% { transform: translate(300px, 40px); opacity: 0; scale: 1.8; fill: #00ff66; }
-                100% { transform: translate(300px, 40px); opacity: 0; }
-            }
-            @keyframes enemy-threat-2 {
-                0% { transform: translate(800px, 130px); opacity: 0; }
-                30% { transform: translate(800px, 130px); opacity: 1; scale: 1; }
-                75% { transform: translate(380px, 130px); opacity: 1; scale: 1; }
-                80% { transform: translate(360px, 130px); opacity: 0; scale: 1.8; }
-                100% { transform: translate(360px, 130px); opacity: 0; }
-            }
-            @keyframes enemy-threat-3 {
-                0% { transform: translate(850px, -40px); opacity: 0; }
-                40% { transform: translate(850px, -40px); opacity: 1; scale: 1; }
-                85% { transform: translate(430px, -40px); opacity: 1; scale: 1; }
-                90% { transform: translate(410px, -40px); opacity: 0; scale: 1.8; }
-                100% { transform: translate(410px, -40px); opacity: 0; }
-            }
-
-            .ship-with-laser { animation: float-ship 4s ease-in-out infinite; }
-            .laser-1 { animation: shoot-laser 2s linear infinite; }
-            .laser-2 { animation: shoot-laser 2s linear infinite 0.7s; }
-            .laser-3 { animation: shoot-laser 2s linear infinite 1.4s; }
-            
-            .enemy-1 { animation: enemy-threat-1 5s linear infinite; }
-            .enemy-2 { animation: enemy-threat-2 5s linear infinite; }
-            .enemy-3 { animation: enemy-threat-3 5s linear infinite; }
-            
-            .glow-box { animation: pulse-glow 2s infinite; }
         </style>
         
         <linearGradient id="grad-hud" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -80,7 +31,7 @@ def generate_svg():
     </g>
 
     <!-- Panel HUD Principal -->
-    <rect x="30" y="30" width="740" height="340" rx="15" fill="url(#grad-hud)" stroke="#00ffff" stroke-width="2" class="glow-box"/>
+    <rect x="30" y="30" width="740" height="340" rx="15" fill="url(#grad-hud)" stroke="#00ffff" stroke-width="2"/>
     
     <!-- Encabezado HUD -->
     <text x="60" y="80" class="title">CYBER SPACE DEFENDER</text>
@@ -90,8 +41,11 @@ def generate_svg():
     <!-- Zona de Combate Central -->
     <g transform="translate(80, 180)">
         
-        <!-- Grupo unificado de la nave y sus láseres para que ambos suban y bajen juntos -->
-        <g class="ship-with-laser">
+        <!-- Grupo de la Nave y Láseres con Movimiento Vertical Nativo (SMIL) -->
+        <g>
+            <!-- La nave sube y baja de forma fluida cubriendo gran parte del eje vertical -->
+            <animateTransform attributeName="transform" type="translate" values="0,0; 0,-55; 0,55; 0,0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+            
             <!-- Nave Defensora -->
             <g>
                 <polygon points="0,0 55,-15 55,15" fill="#00ffff" filter="drop-shadow(0 0 8px #00ffff)"/>
@@ -99,16 +53,25 @@ def generate_svg():
                 <polygon points="5,-5 0,0 5,5" fill="#ff9900"/>
             </g>
 
-            <!-- Láseres saliendo perfectamente desde la punta de la nave (X=55, Y=0) -->
+            <!-- Láseres sincronizados saliendo de la punta -->
             <g transform="translate(55, 0)">
-                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-1" filter="drop-shadow(0 0 6px #00ff66)"/>
-                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-2" filter="drop-shadow(0 0 6px #00ff66)"/>
-                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" class="laser-3" filter="drop-shadow(0 0 6px #00ff66)"/>
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
+                    <animate attributeName="opacity" values="0;1;1;0" dur="1.8s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 450,0" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                </rect>
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
+                    <animate attributeName="opacity" values="0;1;1;0" begin="0.6s" dur="1.8s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 450,0" begin="0.6s" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                </rect>
+                <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
+                    <animate attributeName="opacity" values="0;1;1;0" begin="1.2s" dur="1.8s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 450,0" begin="1.2s" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                </rect>
             </g>
         </g>
 
         <!-- Amenaza 1 (Hacker / Malware) -->
-        <g class="enemy-1">
+        <g transform="translate(480, -30)">
             <circle cx="0" cy="0" r="14" fill="#ff0055" filter="drop-shadow(0 0 10px #ff0055)"/>
             <circle cx="-4" cy="-3" r="3" fill="#ffffff"/>
             <circle cx="4" cy="-3" r="3" fill="#ffffff"/>
@@ -117,13 +80,13 @@ def generate_svg():
         </g>
 
         <!-- Amenaza 2 (Vulnerabilidad Crítica) -->
-        <g class="enemy-2">
+        <g transform="translate(560, 45)">
             <polygon points="0,-12 12,10 -12,10" fill="#ffcc00" filter="drop-shadow(0 0 10px #ffcc00)"/>
             <text x="-3" y="5" font-family="monospace" font-weight="900" font-size="12" fill="#0a0a16">!</text>
         </g>
 
         <!-- Amenaza 3 (Exploit / Inyección de Código) -->
-        <g class="enemy-3">
+        <g transform="translate(630, -45)">
             <rect x="-10" y="-10" width="20" height="20" rx="3" fill="#bd00ff" filter="drop-shadow(0 0 10px #bd00ff)"/>
             <text x="-7" y="5" font-family="'Orbitron', sans-serif" font-weight="700" font-size="10" fill="#ffffff">01</text>
         </g>
@@ -144,4 +107,4 @@ if __name__ == "__main__":
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(svg_data)
     
-    print("¡SVG actualizado correctamente con mayor desplazamiento vertical!")
+    print("¡SVG actualizado con animaciones nativas SMIL para movimiento vertical y láseres!")
