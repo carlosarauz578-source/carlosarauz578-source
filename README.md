@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./dist/space-defender.svg" width="100%" alt="Cyber Space Defender">
+<object data="dist/space-defender.svg" type="image/svg+xml" width="100%"></object>
 </p>
