@@ -1,12 +1,12 @@
-la otra ia no lo hace bien mira el codigo <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=26&center=true&vCenter=true&width=900&lines=🌌+HD+3D+ORBITAL+COMMAND+CENTER+%7C+LIVE+GRID;🚀+GALACTIC+SECURITY+DEFENSE+OPS+%7C+ACTIVE;🛰️️BLOCKCHAIN+ORBITAL+STATIONS;🔐+MILITARY-GRADE+STELLAR+ENCRYPTION+AES-256" alt="3D Cyber Command Center Typing SVG" />
 </h1>
 
 <!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
-  <img src="https://img.shields.io/badge/ORBITAL__SECURITY-STABLE-FF0055?style=for-the-badge&logo=spacex&logoColor=white" alt="SECURITY STABLE" />
-  <img src="https://img.shields.io/badge/BLOCKCHAIN__NODE-ORBITAL__SYNCED-9400D3?style=for-the-badge&logo=ethereum&logoColor=white" alt="NODE SYNCED" />
+  <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />https://carlosarauz578-source.github.io/asteroid-firewall/
+  <img src="https://img.shields.io/badge/ORBITAL__SECURITY-STABLE-FF0055?style=for-the-badge&logo=spacex&logoColor=white" alt="SECURITY STABLE" />https://carlosarauz578-source.github.io/ORBITAL_SECURITY/
+  <img src="https://img.shields.io/badge/BLOCKCHAIN__NODE-ORBITAL__SYNCED-9400D3?style=for-the-badge&logo=ethereum&logoColor=white" alt="NODE SYNCED" />https://carlosarauz578-source.github.io/BLOCKCHAIN_NODE/
 </p>
 
 <!-- Consola Animada de Movimiento Cósmico en Tiempo Real -->
