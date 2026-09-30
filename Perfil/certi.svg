@@ -82,9 +82,9 @@
       <polygon points="350,68 410,175 290,175" fill="#2c1035" stroke="#FF0055" stroke-width="2.5"/>
       <circle cx="315" cy="95" r="2.5" fill="#FFF" class="star-blink"/>
       <g class="anim-float">
-        <text x="350" y="125" font-size="22" text-anchor="middle">🛸</text>
+        <text x="350" y="125" font-size="30" text-anchor="middle">🛸</text>
       </g>
-      <text x="350" y="152" fill="#FF0055" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle" class="glowing-text">CISSP / CISM (ISC²)</text>
+      <text x="350" y="152" fill="#FF0055" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle" class="glowing-text">CISSP / CISM (ISC²)</text>
       <text x="430" y="125" fill="#FF0055" font-family="monospace" font-size="13" font-weight="bold" class="glowing-text">LVL 100</text>
     </g>
 
