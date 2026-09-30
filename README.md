@@ -66,31 +66,47 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 </p>
 
 ---
-<!-- Iconos de Herramientas de Ciberseguridad -->
+<!-- Iconos de Herramientas de Ciberseguridad (Estilo Monocromático Limpio) -->
 <p align="center">
-  <!-- NMAP -->
-  <img src="https://simpleicons.org/icons/nmap.svg" alt="Nmap" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- NMAP (Ojo) - Se ha corregido el enlace -->
+  <a href="https://nmap.org" target="_blank">
+    <img src="https://simpleicons.org/icons/nmap.svg" alt="Nmap" height="35px" style="filter: invert(1); margin: 0 5px;" title="Nmap - Escaneo de Redes">
+  </a>
 
-  <!-- WIRESHARK -->
-  <img src="https://simpleicons.org/icons/wireshark.svg" alt="Wireshark" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- WIRESHARK (Aleta) - Se ha corregido el enlace -->
+  <a href="https://www.wireshark.org" target="_blank">
+    <img src="https://simpleicons.org/icons/wireshark.svg" alt="Wireshark" height="35px" style="filter: invert(1); margin: 0 5px;" title="Wireshark - Análisis de Protocolos">
+  </a>
 
-  <!-- BURP SUITE -->
-  <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- BURP SUITE (Rayo) - Se ha corregido el enlace -->
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" height="35px" style="filter: invert(1); margin: 0 5px;" title="Burp Suite - Web Security Scanner">
+  </a>
 
-  <!-- METASPLOIT -->
-  <img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- METASPLOIT (M) - Se ha corregido el enlace -->
+  <a href="https://www.metasploit.com" target="_blank">
+    <img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" height="35px" style="filter: invert(1); margin: 0 5px;" title="Metasploit Framework - Explotación">
+  </a>
 
-  <!-- KALI LINUX -->
-  <img src="https://simpleicons.org/icons/kalilinux.svg" alt="Kali Linux" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- KALI LINUX (Dragón) - Se ha corregido el enlace -->
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://simpleicons.org/icons/kalilinux.svg" alt="Kali Linux" height="35px" style="filter: invert(1); margin: 0 5px;" title="Kali Linux - Distribución de Seguridad">
+  </a>
 
-  <!-- NESSUS -->
-  <img src="https://simpleicons.org/icons/nessus.svg" alt="Nessus" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- NESSUS (Logo) - Se ha corregido el enlace -->
+  <a href="https://www.tenable.com/products/nessus" target="_blank">
+    <img src="https://simpleicons.org/icons/nessus.svg" alt="Nessus" height="35px" style="filter: invert(1); margin: 0 5px;" title="Nnessus - Vulnerability Scanner">
+  </a>
 
-  <!-- BASH (Si usas la terminal) -->
-  <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- BASH (Gnu Head) - Se ha corregido el enlace -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="35px" style="filter: invert(1); margin: 0 5px;" title="GNU Bash - Terminal y Scripting">
+  </a>
   
-  <!-- Oid-Stack -->
-  <img src="https://simpleicons.org/icons/elastic-security.svg" alt="Elastic Security" height="35px" style="filter: invert(1); margin: 5px;">
+  <!-- ELASTIC SECURITY (Logo) - Se ha corregido el enlace -->
+  <a href="https://www.elastic.co/security" target="_blank">
+    <img src="https://simpleicons.org/icons/elastic-security.svg" alt="Elastic Security" height="35px" style="filter: invert(1); margin: 0 5px;" title="Elastic Security - SIEM & XDR">
+  </a>
 </p>
 
 <!-- Texto explicativo centrado -->
