@@ -1,9 +1,9 @@
-name: Pacman Contribution Graph
+name: Snake Game (Pacman Style)
 
 on:
   schedule:
-    - cron: "0 0 * * *" # corre cada día
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # corre cada día a medianoche
+  workflow_dispatch:       # permite ejecutarlo manualmente
 
 jobs:
   build:
@@ -12,11 +12,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Pacman/Bomberman graph
-        uses: maurodesouza/pacman-contribution-graph@main
+      - name: Generate Snake/Pacman Graph
+        uses: Platane/snk@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: carlosarauz578-source
-          # Puedes cambiar el juego: pacman, bomberman, etc.
-          game: bomberman
-          output: pacman-output
+          github_user_name: carlosarauz578-source
+          outputs: |
+            pacman-output/pacman.svg
