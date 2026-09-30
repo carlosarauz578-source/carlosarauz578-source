@@ -115,11 +115,11 @@
     <!-- ================= NIVEL 1: TRÁNSITO / OPERACIONAL ================= -->
     <g>
       <polygon points="177,453 523,453 575,590 125,590" fill="#08351d" stroke="#00FF66" stroke-width="2.5"/>
-      <text x="235" y="522" font-size="30">🛣️</text>
+      <text x="235" y="522" font-size="40">🛣️</text>
       <g class="anim-float">
-        <text x="350" y="530" font-size="30" text-anchor="middle">🚶‍♂️</text>
+        <text x="350" y="530" font-size="40" text-anchor="middle">🚶‍♂️</text>
       </g>
-      <text x="310" y="558" fill="#00FF66" font-family="monospace" font-size="18" font-weight="bold" text-anchor="middle" class="glowing-text">CCNA / AZ-104 / TryHackMe / NDG Linux</text>
+      <text x="350" y="558" fill="#00FF66" font-family="monospace" font-size="18" font-weight="bold" text-anchor="middle" class="glowing-text">CCNA / AZ-104 / TryHackMe / NDG Linux</text>
       <text x="595" y="522" fill="#00FF66" font-family="monospace" font-size="15" font-weight="bold" class="glowing-text">LVL 50</text>
     </g>
 
