@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón -->
-<p align="center">
+<p align="center">                            
   <a href="https://carlosarauz578-source.github.io/asteroid-firewall/" target="_blank">
     <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
   </a>
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center">                                       ⬆️
   <sub>🛰️ <em>Paneles de acceso directo a los sitios web y estaciones orbitales desplegadas en vivo.</em></sub>
 </p>
 
@@ -62,16 +62,24 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 ---
 
 <p align="center">
+  <img src="Perfil/certi.svg" alt="Certifications Grid" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO)
+## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
+</p>
+
+<p align="center">
+  <img src="Perfil/team.svg" alt="Command Team" width="48%" />
 </p>
 
 <div align="center">
