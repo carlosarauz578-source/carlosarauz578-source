@@ -12,7 +12,7 @@
 * 🤖 Formándome constantemente en Inteligencia Artificial y redes (IBM SkillsBuild, Cisco).
 * 🌍 Basado en Coto Brus, Costa Rica.
 
----
+--- 
 
 ### 🛠️ Tecnologías y Herramientas
 
