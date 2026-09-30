@@ -1,12 +1,21 @@
-## 🧬 // CONTRIBUTION_MATRIX (COSMIC_GRID)
+name: Generate Snake Game
 
-<!-- Gráfico animado de actividad de contribuciones (Snake) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"   # corre cada día a medianoche
+  workflow_dispatch:       # permite ejecutarlo manualmente
 
----
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Graph
+        uses: Platane/snk@master
+        with:
+          github_user_name: carlosarauz578-source
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
