@@ -63,7 +63,7 @@
   <path d="M 510,430 Q 610,410 665,490" class="path-terrestrial"/>
 
   <circle cx="35" cy="490" r="6" fill="#4ade80" class="node-orbit"/>
-  <text x="5" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">NDG Linux / TryHackMe</text>
+  <text x="3" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">NDG Linux / TryHackMe</text>
 
   <circle cx="665" cy="490" r="6" fill="#4ade80" class="node-orbit"/>
   <text x="510" y="470" fill="#4ade80" font-family="monospace" font-size="13" font-weight="bold">SBT: DFIR &amp; Vuln Mgmt</text>
