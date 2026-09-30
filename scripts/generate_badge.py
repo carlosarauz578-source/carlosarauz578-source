@@ -1,7 +1,7 @@
 import os
 
 def generate_svg():
-    """Genera la estructura SVG utilizando animaciones nativas SMIL compatibles con GitHub."""
+    """Genera la estructura SVG utilizando animaciones nativas SMIL compatibles con GitHub para la nave, láseres y enemigos."""
     svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
     <defs>
         <style>
@@ -41,9 +41,8 @@ def generate_svg():
     <!-- Zona de Combate Central -->
     <g transform="translate(80, 180)">
         
-        <!-- Grupo de la Nave y Láseres con Movimiento Vertical Nativo (SMIL) -->
+        <!-- Nave y Láseres con Movimiento Vertical (SMIL) -->
         <g>
-            <!-- La nave sube y baja de forma fluida cubriendo gran parte del eje vertical -->
             <animateTransform attributeName="transform" type="translate" values="0,0; 0,-55; 0,55; 0,0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
             
             <!-- Nave Defensora -->
@@ -53,25 +52,27 @@ def generate_svg():
                 <polygon points="5,-5 0,0 5,5" fill="#ff9900"/>
             </g>
 
-            <!-- Láseres sincronizados saliendo de la punta -->
+            <!-- Láseres Animados -->
             <g transform="translate(55, 0)">
                 <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
-                    <animate attributeName="opacity" values="0;1;1;0" dur="1.8s" repeatCount="indefinite"/>
-                    <animate attributeName="transform" type="translate" values="0,0; 450,0" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                    <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 500,0" dur="2s" repeatCount="indefinite" calcMode="linear"/>
                 </rect>
                 <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
-                    <animate attributeName="opacity" values="0;1;1;0" begin="0.6s" dur="1.8s" repeatCount="indefinite"/>
-                    <animate attributeName="transform" type="translate" values="0,0; 450,0" begin="0.6s" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                    <animate attributeName="opacity" values="0;1;1;0" begin="0.7s" dur="2s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 500,0" begin="0.7s" dur="2s" repeatCount="indefinite" calcMode="linear"/>
                 </rect>
                 <rect x="0" y="-2" width="60" height="4" fill="#00ff66" rx="2" filter="drop-shadow(0 0 6px #00ff66)">
-                    <animate attributeName="opacity" values="0;1;1;0" begin="1.2s" dur="1.8s" repeatCount="indefinite"/>
-                    <animate attributeName="transform" type="translate" values="0,0; 450,0" begin="1.2s" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+                    <animate attributeName="opacity" values="0;1;1;0" begin="1.4s" dur="2s" repeatCount="indefinite"/>
+                    <animate attributeName="transform" type="translate" values="0,0; 500,0" begin="1.4s" dur="2s" repeatCount="indefinite" calcMode="linear"/>
                 </rect>
             </g>
         </g>
 
         <!-- Amenaza 1 (Hacker / Malware) -->
-        <g transform="translate(480, -30)">
+        <g>
+            <animateTransform attributeName="transform" type="translate" values="750,40; 320,40; 300,40; 300,40" keyTimes="0; 0.6; 0.65; 1" dur="5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="1;1;0;0" keyTimes="0; 0.6; 0.65; 1" dur="5s" repeatCount="indefinite"/>
             <circle cx="0" cy="0" r="14" fill="#ff0055" filter="drop-shadow(0 0 10px #ff0055)"/>
             <circle cx="-4" cy="-3" r="3" fill="#ffffff"/>
             <circle cx="4" cy="-3" r="3" fill="#ffffff"/>
@@ -80,13 +81,17 @@ def generate_svg():
         </g>
 
         <!-- Amenaza 2 (Vulnerabilidad Crítica) -->
-        <g transform="translate(560, 45)">
+        <g>
+            <animateTransform attributeName="transform" type="translate" values="800,130; 800,130; 380,130; 360,130; 360,130" keyTimes="0; 0.3; 0.75; 0.8; 1" dur="5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0; 0.3; 0.75; 0.8; 1" dur="5s" repeatCount="indefinite"/>
             <polygon points="0,-12 12,10 -12,10" fill="#ffcc00" filter="drop-shadow(0 0 10px #ffcc00)"/>
             <text x="-3" y="5" font-family="monospace" font-weight="900" font-size="12" fill="#0a0a16">!</text>
         </g>
 
         <!-- Amenaza 3 (Exploit / Inyección de Código) -->
-        <g transform="translate(630, -45)">
+        <g>
+            <animateTransform attributeName="transform" type="translate" values="850,-40; 850,-40; 430,-40; 410,-40; 410,-40" keyTimes="0; 0.4; 0.85; 0.9; 1" dur="5s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0; 0.4; 0.85; 0.9; 1" dur="5s" repeatCount="indefinite"/>
             <rect x="-10" y="-10" width="20" height="20" rx="3" fill="#bd00ff" filter="drop-shadow(0 0 10px #bd00ff)"/>
             <text x="-7" y="5" font-family="'Orbitron', sans-serif" font-weight="700" font-size="10" fill="#ffffff">01</text>
         </g>
@@ -107,4 +112,4 @@ if __name__ == "__main__":
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(svg_data)
     
-    print("¡SVG actualizado con animaciones nativas SMIL para movimiento vertical y láseres!")
+    print("¡SVG actualizado correctamente con animaciones completas!")
