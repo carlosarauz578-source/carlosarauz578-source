@@ -96,7 +96,7 @@
         <text x="350" y="235" font-size="30" text-anchor="middle">🎈</text>
       </g>
       <text x="435" y="222" font-size="30">🕊️</text>
-      <text x="350" y="265" fill="#FF5500" font-family="monospace" font-size="18" font-weight="bold" text-anchor="middle" class="glowing-text">OSCP / Advanced Offensive</text>
+      <text x="350" y="265" fill="#FF5500" font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle" class="glowing-text">OSCP / Advanced Offensive</text>
       <text x="485" y="250" fill="#FF5500" font-family="monospace" font-size="13" font-weight="bold" class="glowing-text">LVL 90</text>
     </g>
 
