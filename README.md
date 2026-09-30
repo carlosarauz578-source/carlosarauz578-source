@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón --> 
-<p align="center">                            
+<p align="center"> 
   <a href="https://carlosarauz578-source.github.io/asteroid-firewall/" target="_blank">
     <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
   </a>
@@ -15,13 +15,8 @@
   </a>
 </p>
 
-<p align="center">                                       ⬆️
+<p align="center"> ⬆️
   <sub>🛰️ <em>Paneles de acceso directo a los sitios web y estaciones orbitales desplegadas en vivo.</em></sub>
-</p>
-
-<!-- Consola Animada de Movimiento Cósmico en Tiempo Real -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=14&background=030712&center=true&vCenter=true&width=900&lines=%5B🛰️+ORBITAL_RADAR%5D:+Tracking_satellite_trajectory_alpha...;%5B🚀+PROPULSION_CORE%5D:+Smart_contract_mainnet_sync_at_100%25;%5B🌌+NEBULA_ENGINE%5D:+Quantum_particles_aligned_successfully;%5B🔐+STELLAR_ENCRYPTION%5D:+Zero-day_vectors_quarantined_instantly;%3E+status:+all_tactical_3d_nodes_operational" alt="Space Terminal 3D Animation" />
 </p>
 
 ---
@@ -66,46 +61,47 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 </p>
 
 ---
-<!-- Iconos de Herramientas de Ciberseguridad (Estilo Monocromático Limpio) -->
+
+<!-- NUEVO: Iconos de Herramientas de Ciberseguridad (Versión Corregida) -->
 <p align="center">
-  <!-- NMAP (Ojo) - Se ha corregido el enlace -->
-  <a href="https://nmap.org" target="_blank">
-    <img src="https://simpleicons.org/icons/nmap.svg" alt="Nmap" height="35px" style="filter: invert(1); margin: 0 5px;" title="Nmap - Escaneo de Redes">
+  <!-- NMAP (Ojo) -->
+  <a href="https://nmap.org/" target="_blank" title="Nmap - Escaneo de Redes">
+    <img src="https://simpleicons.org/icons/nmap.svg" alt="Nmap" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- WIRESHARK (Aleta) - Se ha corregido el enlace -->
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://simpleicons.org/icons/wireshark.svg" alt="Wireshark" height="35px" style="filter: invert(1); margin: 0 5px;" title="Wireshark - Análisis de Protocolos">
+  <!-- WIRESHARK (Aleta) -->
+  <a href="https://www.wireshark.org/" target="_blank" title="Wireshark - Análisis de Protocolos">
+    <img src="https://simpleicons.org/icons/wireshark.svg" alt="Wireshark" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- BURP SUITE (Rayo) - Se ha corregido el enlace -->
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" height="35px" style="filter: invert(1); margin: 0 5px;" title="Burp Suite - Web Security Scanner">
+  <!-- BURP SUITE (Rayo) -->
+  <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite - Web Security Scanner">
+    <img src="https://simpleicons.org/icons/burpsuite.svg" alt="Burp Suite" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- METASPLOIT (M) - Se ha corregido el enlace -->
-  <a href="https://www.metasploit.com" target="_blank">
-    <img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" height="35px" style="filter: invert(1); margin: 0 5px;" title="Metasploit Framework - Explotación">
+  <!-- METASPLOIT (M) -->
+  <a href="https://www.metasploit.com/" target="_blank" title="Metasploit Framework - Explotación">
+    <img src="https://simpleicons.org/icons/metasploit.svg" alt="Metasploit" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- KALI LINUX (Dragón) - Se ha corregido el enlace -->
-  <a href="https://www.kali.org" target="_blank">
-    <img src="https://simpleicons.org/icons/kalilinux.svg" alt="Kali Linux" height="35px" style="filter: invert(1); margin: 0 5px;" title="Kali Linux - Distribución de Seguridad">
+  <!-- KALI LINUX (Dragón) -->
+  <a href="https://www.kali.org/" target="_blank" title="Kali Linux - Distribución de Seguridad">
+    <img src="https://simpleicons.org/icons/kalilinux.svg" alt="Kali Linux" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- NESSUS (Logo) - Se ha corregido el enlace -->
-  <a href="https://www.tenable.com/products/nessus" target="_blank">
-    <img src="https://simpleicons.org/icons/nessus.svg" alt="Nessus" height="35px" style="filter: invert(1); margin: 0 5px;" title="Nnessus - Vulnerability Scanner">
+  <!-- NESSUS (Logo) -->
+  <a href="https://www.tenable.com/products/nessus/" target="_blank" title="Nessus - Vulnerability Scanner">
+    <img src="https://simpleicons.org/icons/nessus.svg" alt="Nessus" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 
-  <!-- BASH (Gnu Head) - Se ha corregido el enlace -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="35px" style="filter: invert(1); margin: 0 5px;" title="GNU Bash - Terminal y Scripting">
+  <!-- BASH (GNU Head) -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash - Terminal y Scripting">
+    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
   
-  <!-- ELASTIC SECURITY (Logo) - Se ha corregido el enlace -->
-  <a href="https://www.elastic.co/security" target="_blank">
-    <img src="https://simpleicons.org/icons/elastic-security.svg" alt="Elastic Security" height="35px" style="filter: invert(1); margin: 0 5px;" title="Elastic Security - SIEM & XDR">
+  <!-- ELASTIC SECURITY (Logo) -->
+  <a href="https://www.elastic.co/security" target="_blank" title="Elastic Security - SIEM & XDR">
+    <img src="https://simpleicons.org/icons/elastic-security.svg" alt="Elastic Security" height="35px" style="filter: invert(1); margin: 0 5px;">
   </a>
 </p>
 
@@ -113,6 +109,14 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 <p align="center">
   <sub>🛠️ <em>Herramientas clave del arsenal ofensivo y defensivo desplegadas en el entorno.</em></sub>
 </p>
+
+---
+
+<!-- Consola Animada de Movimiento Cósmico en Tiempo Real -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=14&background=030712&center=true&vCenter=true&width=900&lines=%5B🛰️+ORBITAL_RADAR%5D:+Tracking_satellite_trajectory_alpha...;%5B🚀+PROPULSION_CORE%5D:+Smart_contract_mainnet_sync_at_100%25;%5B🌌+NEBULA_ENGINE%5D:+Quantum_particles_aligned_successfully;%5B🔐+STELLAR_ENCRYPTION%5D:+Zero-day_vectors_quarantined_instantly;%3E+status:+all_tactical_3d_nodes_operational" alt="Space Terminal 3D Animation" />
+</p>
+
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
 <p align="center">
