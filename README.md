@@ -15,6 +15,10 @@
   </a>
 </p>
 
+<p align="center">
+  <sub>🛰️ <em>Paneles de acceso directo a los sitios web y estaciones orbitales desplegadas en vivo.</em></sub>
+</p>
+
 <!-- Consola Animada de Movimiento Cósmico en Tiempo Real -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=14&background=030712&center=true&vCenter=true&width=900&lines=%5B🛰️+ORBITAL_RADAR%5D:+Tracking_satellite_trajectory_alpha...;%5B🚀+PROPULSION_CORE%5D:+Smart_contract_mainnet_sync_at_100%25;%5B🌌+NEBULA_ENGINE%5D:+Quantum_particles_aligned_successfully;%5B🔐+STELLAR_ENCRYPTION%5D:+Zero-day_vectors_quarantined_instantly;%3E+status:+all_tactical_3d_nodes_operational" alt="Space Terminal 3D Animation" />
