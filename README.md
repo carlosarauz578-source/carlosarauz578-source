@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+                                                         ⬆️
   <sub>🛰️ <em>Paneles de acceso directo a los sitios web y estaciones orbitales desplegadas en vivo.</em></sub>
 </p>
 
