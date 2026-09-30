@@ -66,12 +66,12 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 <p align="center">
   <!-- NMAP (Azul Neón) -->
   <a href="https://nmap.org/" target="_blank" title="Nmap - Escaneo de Redes">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="60px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="90px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- WIRESHARK (Turquesa / Cian) -->
   <a href="https://www.wireshark.org/" target="_blank" title="Wireshark - Análisis de Protocolos">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="60px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="80px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
 
   <!-- BURP SUITE (Naranja Neón) -->
