@@ -107,7 +107,7 @@
       <g class="anim-float">
         <text x="350" y="390" font-size="22" text-anchor="middle">🧗‍♂️</text>
       </g>
-      <text x="470" y="382" font-size="30">🏢</text>
+      <text x="460" y="382" font-size="30">🏢</text>
       <text x="350" y="415" fill="#FFCC00" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle" class="glowing-text">AWS Arch / CEH / DefensityOne</text>
       <text x="540" y="390" fill="#FFCC00" font-family="monospace" font-size="13" font-weight="bold" class="glowing-text">LVL 75</text>
     </g>
