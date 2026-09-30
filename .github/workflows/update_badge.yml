@@ -3,7 +3,7 @@ name: Update Cyber Badge
 on:
   schedule:
     - cron: '0 0 * * *' # Se ejecuta todos los días a la medianoche
-  workflow_dispatch:      # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:      # Permite ejecutarlo manualmente
 
 jobs:
   build:
@@ -20,7 +20,8 @@ jobs:
           python-version: '3.10'
 
       - name: Generate SVG Badge
-        run: python generate_badge.py
+        # CORRECCIÓN AQUÍ: Indicar la ruta correcta hacia la carpeta scripts
+        run: python scripts/generate_badge.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
