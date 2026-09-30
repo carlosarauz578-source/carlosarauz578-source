@@ -41,11 +41,6 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
   <img src="Perfil/radar.svg" alt="Orbital Radar" width="100%" />
 </p>
 
-<p align="center">
-  <img src="Perfil/certi.svg" alt="Certifications Grid" width="48%" />
-  <img src="Perfil/team.svg" alt="Command Team" width="48%" />
-</p>
-
 ---
 
 ## 🚀 // TACTICAL_ACCESS_GRID (ESTACIONES ESPACIALES Y REPOSITORIOS)
