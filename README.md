@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Banner animado de Cyber Space Defender con control de caché -->
-  <img src="dist/space-defender.svg?v=2" alt="Cyber Space Defender" width="100%">
+  <img src="dist/space-defender.svg?v=5" alt="Cyber Space Defender" width="100%">
 </div>
 
 ---
