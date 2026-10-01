@@ -20,52 +20,9 @@
 </p>
 
 ---
-## 🛰️ // ORBITAL_CORE_PROFILE
-Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados. Especialista en la fortificación de smart contracts, auditorías de infraestructura crítica y despliegue de nodos en redes orbitales y blockchains de alta disponibilidad.
-
 <p align="center">
-  <!-- Solidity -->
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <!-- Ethereum -->
-  <a href="https://ethereum.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
-  </a>
-  <!-- IPFS -->
-  <a href="https://ipfs.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS">
-  </a>
+  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPOSITORIO/main/orbital-profile.svg" alt="Orbital Core Profile" width="100%">
 </p>
-
 
 ## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
 
