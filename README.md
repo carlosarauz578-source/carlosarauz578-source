@@ -20,16 +20,21 @@
 </p>
 
 ---
+
+<img data-importer="image" align="left" height="105" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVwNmE5enB6MWY3MGpnZnJhOXFqOGViMHk2djluZ3c4ejYwYnM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdLOIQgsIj6ybqp8rw/giphy.gif" alt="Orbital GIF Left" />
+
 <h3 align="center">🛰️ // ORBITAL_CORE_PROFILE</h3>
 <p align="center">
   Sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados.<br>
   Fortificación de smart contracts y despliegue de nodos en redes orbitales.
 </p>
+<br clear="all">
 
 <p align="center">
   <!-- 1. VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Vs%20code.png" width="45" height="45" alt="VS Code" style="margin: 4px;" />
+  </a>
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/sql.png" width="45" height="45" alt="SQL" style="margin: 4px;" />
@@ -91,17 +96,26 @@
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/docker.png" width="45" height="45" alt="Docker" style="margin: 4px;" />
   </a>
 </p>
-## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
-
-<p align="center">
-  <img src="Perfil/radar.svg" alt="Orbital Radar" width="100%" />
-</p>
 
 ---
+
+## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
+
+<img data-importer="image" align="right" height="130" src="https://i.imgflip.com/65efzo.gif" alt="Telemetry GIF" />
+
+<p align="center">
+  <img src="Perfil/radar.svg" alt="Orbital Radar" width="80%" />
+</p>
+<br clear="all">
+
+---
+
+<img data-importer="image" align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0wemg1bDJqZXQ4cmVmdWI4ejEyOXcwMnNwZ3puamxycGdtYTZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" alt="Certifications GIF" />
 
 <p align="center">
   <img src="Perfil/certi.svg" alt="Certifications Grid" width="48%" />
 </p>
+<br clear="all">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -109,45 +123,38 @@
 </p>
 
 ---
----
+
 <!-- Iconos de Herramientas de Ciberseguridad con Efecto 3D Neón e Iluminación -->
 <p align="center">
-  <!-- NMAP (Azul Neón) -->
+  <!-- NMAP -->
   <a href="https://nmap.org/" target="_blank" title="Nmap - Escaneo de Redes">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- WIRESHARK (Turquesa / Cian) -->
+  <!-- WIRESHARK -->
   <a href="https://www.wireshark.org/" target="_blank" title="Wireshark - Análisis de Protocolos">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- BURP SUITE (Naranja Neón) -->
+  <!-- BURP SUITE -->
   <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite - Web Security Scanner">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.BurpSuite.jpg" alt="Burp Suite" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 115, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- METASPLOIT (Rojo Fuego) -->
+  <!-- METASPLOIT -->
   <a href="https://www.metasploit.com/" target="_blank" title="Metasploit Framework - Explotación">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Metaploit.jpg" alt="Metasploit" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 40, 40, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- KALI LINUX (Azul Galáctico) -->
+  <!-- KALI LINUX -->
   <a href="https://www.kali.org/" target="_blank" title="Kali Linux - Distribución de Seguridad">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.KaliLinux.jpg" alt="Kali Linux" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(80, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- NESSUS (Gris Metálico Brillante) -->
+  <!-- NESSUS -->
   <a href="https://www.tenable.com/products/nessus/" target="_blank" title="Nessus - Vulnerability Scanner">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Nessus.jpg" alt="Nessus" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(180, 180, 180, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
-
-  <!-- BASH (Blanco / Plata Cósmico) -->
+  <!-- BASH -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash - Terminal y Scripting">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.GNUBash.jpg" alt="Bash" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(240, 240, 240, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.5); margin: 0 6px;">
   </a>
-  
-  <!-- ELASTIC SECURITY (Amarillo Oro / Neón) -->
+  <!-- ELASTIC SECURITY -->
   <a href="https://www.elastic.co/security" target="_blank" title="Elastic Security - SIEM & XDR">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.ElasticSecurity.jpg" alt="Elastic Security" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
   </a>
@@ -167,61 +174,44 @@
 
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
+<img data-importer="image" align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlud3B2ajVlcnAxams0Y2RzaTc2cGc3ZDlza2kyeXMwNmZiZmpjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif" alt="HUD GIF 1" />
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
 </p>
+<br clear="all">
+
+<img data-importer="image" align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk0aTZ3NWdyZW8yMnM1eDh4cGU3Z2QxM3RzZWxneWt1eWtsam1kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UxWBIttMvvIJ55hTe/giphy.gif" alt="HUD GIF 2" />
 
 <p align="center">
   <img src="Perfil/team.svg" alt="Command Team" width="48%" />
 </p>
+<br clear="all">
 
 <div align="center">
   <img src="dist/space-defender.svg?v=5" alt="Cyber Space Defender" width="100%">
 </div>
 
+---
+
+<img data-importer="image" align="right" height="123" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNpeTFoeWNicThnY2Jsb3gzeHNyZHBhdTJrODlrM3dpbHh1MjFraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0WjHhGx87PoY/giphy.gif" alt="Stats GIF Left" />
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
+<br clear="all">
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- Sección de Cierre / Decoración Final con los GIFs restantes distribuidos -->
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0wemg1bDJqZXQ4cmVmdWI4ejEyOXcwMnNwZ3puamxycGdtYTZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlud3B2ajVlcnAxams0Y2RzaTc2cGc3ZDlza2kyeXMwNmZiZmpjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk0aTZ3NWdyZW8yMnM1eDh4cGU3Z2QxM3RzZWxneWt1eWtsam1kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UxWBIttMvvIJ55hTe/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="123" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNpeTFoeWNicThnY2Jsb3gzeHNyZHBhdTJrODlrM3dpbHh1MjFraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0WjHhGx87PoY/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="111" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Frbmw3ZW56bm9pYXlqdDE4OGtqZnIybWt0MTFwdGZxNXQzOGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="88" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd4em1jdjFpaHFxYTM1ZmZzOGl6YXJkZGlvMmY3MjYxZ2d4eTQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiTY1JMB6xvUUjuPRH/giphy.gif"  />
-
-###
-
-<img data-importer="image" align="left" height="105" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVwNmE5enB6MWY3MGpnZnJhOXFqOGViMHk2djluZ3c4ejYwYnM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdLOIQgsIj6ybqp8rw/giphy.gif"  />
-
-###
-
-```bash
-root@carlosarauz-cyber-command:~# ./launch_orbital_defenses.sh --secure
-[INFO] Initializing quantum encryption protocols (AES-256-GCM)... [OK]
-[SUCCESS] P2P Mesh Network connected across 32 active stellar nodes.
-[ALERT] Zero-day intrusion vector intercepted by Asteroid Firewall. Target quarantined.
-[BLOCKCHAIN] Block #842,911 successfully validated and signed on mainnet.
-> System status: ALL TACTICAL NODES 100% OPERATIONAL & SECURE.
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img height="111" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Frbmw3ZW56bm9pYXlqdDE4OGtqZnIybWt0MTFwdGZxNXQzOGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif" alt="Footer GIF 1" />
+    </td>
+    <td align="center">
+      <img height="88" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd4em1jdjFpaHFxYTM1ZmZzOGl6YXJkZGlvMmY3MjYxZ2d4eTQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiTY1JMB6xvUUjuPRH/giphy.gif" alt="Footer GIF 2" />
+    </td>
+  </tr>
+</table>
