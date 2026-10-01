@@ -1,0 +1,210 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .bg { fill: #0c1324; stroke: #00f0ff; stroke-opacity: 0.4; stroke-width: 1.5; rx: 12px; }
+    .title { font-family: 'Segoe UI', Roboto, sans-serif; fill: #00f0ff; font-size: 16px; font-weight: bold; letter-spacing: 2px; }
+    .desc { font-family: 'Segoe UI', Roboto, sans-serif; fill: #94a3b8; font-size: 13px; line-height: 1.5; }
+    .icon-bg { fill: #1e293b; stroke: #00f0ff; stroke-opacity: 0.3; stroke-width: 1; rx: 8px; transition: all 0.3s ease; }
+    .icon-bg:hover { fill: #0f172a; stroke: #00f0ff; stroke-opacity: 1; filter: drop-shadow(0px 0px 8px rgba(0, 240, 255, 0.8)); cursor: pointer; }
+    .label { font-family: 'Segoe UI', Roboto, sans-serif; fill: #f8fafc; font-size: 9px; font-weight: 600; text-anchor: middle; }
+
+    /* Animaciones de parpadeo y destello más intensas */
+    @keyframes fast-blink {
+      0% { opacity: 0.2; filter: drop-shadow(0px 0px 2px rgba(0, 240, 255, 0.2)); }
+      30% { opacity: 1; filter: drop-shadow(0px 0px 12px rgba(0, 240, 255, 1)); }
+      60% { opacity: 0.4; filter: drop-shadow(0px 0px 4px rgba(0, 240, 255, 0.4)); }
+      100% { opacity: 0.2; filter: drop-shadow(0px 0px 2px rgba(0, 240, 255, 0.2)); }
+    }
+
+    @keyframes engine-flash {
+      0% { opacity: 0.3; transform: scaleX(0.8); }
+      50% { opacity: 1; filter: drop-shadow(0px 0px 10px #ff0055); transform: scaleX(1.2); }
+      100% { opacity: 0.3; transform: scaleX(0.8); }
+    }
+
+    .ship-blink { animation: fast-blink 1.8s ease-in-out infinite; }
+    .engine-blink { animation: engine-flash 0.8s ease-in-out infinite; transform-origin: left center; }
+  </style>
+
+  <!-- Fondo de la tarjeta -->
+  <rect x="2" y="2" width="896" height="236" class="bg" />
+
+  <!-- Título -->
+  <text x="30" y="45" class="title">🛰️ // ORBITAL_CORE_PROFILE</text>
+
+  <!-- Descripción -->
+  <text x="30" y="80" class="desc">Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados.</text>
+  <text x="30" y="100" class="desc">Especialista en fortificación de smart contracts y despliegue de nodos en redes orbitales.</text>
+
+  <!-- NAVES ESPACIALES DETALLADAS Y CON PARPADEO VIVO -->
+  
+  <!-- Nave 1 (Esquina superior derecha - Tipo Caza Orbital) -->
+  <g class="ship-blink" transform="translate(770, 20)">
+    <!-- Cuerpo principal y alas -->
+    <path d="M0 12 L28 4 L42 12 L28 20 L0 12Z" fill="#334155" stroke="#00f0ff" stroke-width="1.2"/>
+    <!-- Cabina de cristal -->
+    <path d="M16 10 L24 10 L26 14 L14 14 Z" fill="#00f0ff" />
+    <!-- Ala inferior/superior extra -->
+    <path d="M12 6 L18 2 L22 4 L16 10 Z" fill="#475569" />
+    <path d="M12 18 L18 22 L22 20 L16 14 Z" fill="#475569" />
+    <!-- Estela de propulsión intermitente -->
+    <path d="M0 12 L-10 8 L-6 12 L-10 16 Z" fill="#ff0055" class="engine-blink" />
+  </g>
+
+  <!-- Nave 2 (Zona superior central - Tipo Explorador Avanzado) -->
+  <g class="ship-blink" style="animation-delay: 0.9s;" transform="translate(650, 68)">
+    <!-- Fuselaje aerodinámico -->
+    <path d="M36 8 L6 0 L14 8 L6 16 Z" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+    <!-- Cabina brillante -->
+    <ellipse cx="22" cy="8" rx="4" ry="2.5" fill="#38bdf8" />
+    <!-- Propulsor trasero encendido -->
+    <path d="M6 8 L-2 4 L2 8 L-2 12 Z" fill="#00f0ff" class="engine-blink" />
+  </g>
+
+
+  <!-- FILA DE ICONOS TECNOLÓGICOS (ESTÁTICOS CON HOVER) -->
+  <!-- 1. VS Code -->
+  <a xlink:href="https://code.visualstudio.com/" target="_blank">
+    <g transform="translate(30, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M14 13L24 21.5L14 30V13Z" fill="#007ACC"/>
+      <path d="M24 21.5L32 15L24 13V21.5Z" fill="#1F9CF0"/>
+      <path d="M24 21.5L32 28L24 30V21.5Z" fill="#0065A9"/>
+      <text x="23" y="41" class="label">VS CODE</text>
+    </g>
+  </a>
+
+  <!-- 2. Podman -->
+  <a xlink:href="https://podman.io/" target="_blank">
+    <g transform="translate(86, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <circle cx="23" cy="20" r="8" fill="#892D15"/>
+      <path d="M15 28C15 25 31 25 31 28" stroke="#892D15" stroke-width="3" stroke-linecap="round"/>
+      <text x="23" y="41" class="label">PODMAN</text>
+    </g>
+  </a>
+
+  <!-- 3. VirtualBox -->
+  <a xlink:href="https://www.virtualbox.org/" target="_blank">
+    <g transform="translate(142, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <rect x="15" y="13" width="16" height="13" rx="2" fill="#183A61" stroke="#31658C" stroke-width="1.5"/>
+      <circle cx="23" cy="29" r="2" fill="#00f0ff"/>
+      <text x="23" y="41" class="label">VBOX</text>
+    </g>
+  </a>
+
+  <!-- 4. Java -->
+  <a xlink:href="https://www.java.com/" target="_blank">
+    <g transform="translate(198, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M22 13C22 13 18 16 22 19C26 22 20 25 23 27" stroke="#ED8B00" stroke-width="2" stroke-linecap="round"/>
+      <path d="M17 30H29" stroke="#ED8B00" stroke-width="2" stroke-linecap="round"/>
+      <text x="23" y="41" class="label">JAVA</text>
+    </g>
+  </a>
+
+  <!-- 5. HTML -->
+  <a xlink:href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <g transform="translate(254, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M15 13L17 31L23 33L29 31L31 13H15Z" fill="#E34F26"/>
+      <path d="M23 15V31L27.5 29.5L29 15H23Z" fill="#F16529"/>
+      <text x="23" y="41" class="label">HTML</text>
+    </g>
+  </a>
+
+  <!-- 6. Llama AI -->
+  <a xlink:href="https://www.llama.com/" target="_blank">
+    <g transform="translate(310, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <circle cx="23" cy="20" r="7" fill="#0081FB"/>
+      <path d="M18 27H28V29H18V27Z" fill="#0081FB"/>
+      <text x="23" y="41" class="label">LLAMA</text>
+    </g>
+  </a>
+
+  <!-- 7. Copilot -->
+  <a xlink:href="https://github.com/features/copilot" target="_blank">
+    <g transform="translate(366, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <circle cx="23" cy="20" r="8" fill="#24292e" stroke="#00f0ff" stroke-width="1.5"/>
+      <circle cx="20" cy="19" r="1.5" fill="#00f0ff"/>
+      <circle cx="26" cy="19" r="1.5" fill="#00f0ff"/>
+      <text x="23" y="41" class="label">COPILOT</text>
+    </g>
+  </a>
+
+  <!-- 8. ChatGPT -->
+  <a xlink:href="https://chatgpt.com/" target="_blank">
+    <g transform="translate(422, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M23 13C19 13 17 15 17 18C17 20 19 22 23 22C27 22 29 24 29 27C29 30 27 32 23 32C19 32 17 30 17 27" stroke="#74AA9C" stroke-width="2.5" stroke-linecap="round"/>
+      <text x="23" y="41" class="label">CHATGPT</text>
+    </g>
+  </a>
+
+  <!-- 9. Gemini -->
+  <a xlink:href="https://gemini.google.com/" target="_blank">
+    <g transform="translate(478, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M23 13C23 18 28 20 28 20C28 20 23 22 23 27C23 22 18 20 18 20C18 20 23 18 23 13Z" fill="#8E75B2"/>
+      <text x="23" y="41" class="label">GEMINI</text>
+    </g>
+  </a>
+
+  <!-- 10. JavaScript -->
+  <a xlink:href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <g transform="translate(534, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <rect x="15" y="13" width="16" height="16" rx="2" fill="#F7DF1E"/>
+      <text x="23" y="41" class="label">JS</text>
+    </g>
+  </a>
+
+  <!-- 11. TypeScript -->
+  <a xlink:href="https://www.typescriptlang.org/" target="_blank">
+    <g transform="translate(590, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <rect x="15" y="13" width="16" height="16" rx="2" fill="#3178C6"/>
+      <text x="23" y="41" class="label">TS</text>
+    </g>
+  </a>
+
+  <!-- 12. Python -->
+  <a xlink:href="https://www.python.org/" target="_blank">
+    <g transform="translate(646, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M19 15C17 15 17 17 17 19V21C17 23 18 23 20 23H22V25H18C16 25 15 24 15 21V19C15 16 17 13 21 13H25C27 13 28 14 28 17V19H26V17C26 15 25 15 23 15H19Z" fill="#3776AB"/>
+      <text x="23" y="41" class="label">PYTHON</text>
+    </g>
+  </a>
+
+  <!-- 13. Git -->
+  <a xlink:href="https://git-scm.com/" target="_blank">
+    <g transform="translate(702, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M23 13V29M23 13L29 19M23 13L17 19" stroke="#F05032" stroke-width="2.5" stroke-linecap="round"/>
+      <text x="23" y="41" class="label">GIT</text>
+    </g>
+  </a>
+
+  <!-- 14. Linux -->
+  <a xlink:href="https://www.linux.org/" target="_blank">
+    <g transform="translate(758, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <ellipse cx="23" cy="20" rx="5" ry="6" fill="#FCC624"/>
+      <circle cx="21" cy="18" r="0.8" fill="#000"/>
+      <circle cx="25" cy="18" r="0.8" fill="#000"/>
+      <text x="23" y="41" class="label">LINUX</text>
+    </g>
+  </a>
+
+  <!-- 15. Docker -->
+  <a xlink:href="https://www.docker.com/" target="_blank">
+    <g transform="translate(814, 135)">
+      <rect width="46" height="46" class="icon-bg" />
+      <path d="M16 20H18V22H16V20ZM19 20H21V22H19V20ZM22 20H24V22H22V20ZM19 17H21V19H19V17ZM22 17H24V19H22V17ZM16 23H27C27 23 28 26 25 27C22 28 15 28 16 23Z" fill="#2496ED"/>
+      <text x="23" y="41" class="label">DOCKER</text>
+    </g>
+  </a>
+</svg>
