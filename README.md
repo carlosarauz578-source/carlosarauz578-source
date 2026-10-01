@@ -22,7 +22,7 @@
 ---
 
 <!-- 1. ZIG: IZQUIERDA -->
-<img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-to-svg-converter.svg" alt="GIF 1" />
+<img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-to-svg-converter.svg" alt="SVG 1" />
 
 <h3 align="center">🛰️ // ORBITAL_CORE_PROFILE</h3>
 <p align="center">
@@ -211,7 +211,7 @@
 
 <!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
 <div style="overflow: hidden; width: 100%; margin: 20px 0;">
-  <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-to-svg-converter.svg" alt="GIF 7" />
-  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/65efzo.gif" alt="GIF 8" />
+  <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-to-svg-converter.svg" alt="SVG 7" />
+  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/65efzo.gif" alt="SVG 8" />
 </div>
 <br clear="all">
