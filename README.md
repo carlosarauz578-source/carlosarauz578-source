@@ -22,8 +22,8 @@
 ---
 <h3 align="center">🛰️ // ORBITAL_CORE_PROFILE</h3>
 <p align="center">
-  Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados.<br>
-  Especialista en fortificación de smart contracts y despliegue de nodos en redes orbitales.
+  Sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados.<br>
+  Fortificación de smart contracts y despliegue de nodos en redes orbitales.
 </p>
 
 <p align="center">
