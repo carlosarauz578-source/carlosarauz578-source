@@ -202,19 +202,17 @@
 <!-- 6. ZAG: DERECHA -->
 <img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku.svg" alt="GIF 6" />
 
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│             ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED     │
-│                                                        │
-│   ┌────────────────────────────────────────────────┐   │
-│   │ [Tema Tokyonight Cyberpunk Neon]               │   │
-│   │ TypeScript   ██████████████████░░   45.2%     │   │
-│   │ Python       ████████████░░░░░░░░   28.1%     │   │
-│   │ Rust         ████████░░░░░░░░░░░░   15.0%     │   │
-│   └────────────────────────────────────────────────┘   │
-│           [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE]  │
-│                                                        │
-└────────────────────────────────────────────────────────┘
+                                                     
+                                                                
+    v⚡ // SYSTEM_STATS: LANGUAGES_DETECTED                                                       
+   ┌────────────────────────────────────────────────┐   
+    [Tema Tokyonight Cyberpunk Neon]                 
+    TypeScript   ██████████████████░░   45.2%       
+    Python       ████████████░░░░░░░░   28.1%        
+    Rust         ████████░░░░░░░░░░░░   15.0%        
+  └────────────────────────────────────────────────┘   
+           [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE]  
+                                                       
 
 ---
 
