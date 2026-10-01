@@ -113,7 +113,7 @@
 ---
 
 <!-- 3. ZIG: IZQUIERDA -->
-<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/" alt="GIF 3" />
+<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Space.svg" alt="GIF 3" />
 
 <p align="center">
   <img src="Perfil/certi.svg" alt="Certifications Grid" width="45%" />
