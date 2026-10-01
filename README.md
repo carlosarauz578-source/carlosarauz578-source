@@ -204,14 +204,20 @@
 
                                                      
                                                                 
-    v⚡ // SYSTEM_STATS: LANGUAGES_DETECTED                                                       
-   ┌────────────────────────────────────────────────┐   
-    [Tema Tokyonight Cyberpunk Neon]                 
-    TypeScript   ██████████████████░░   45.2%       
-    Python       ████████████░░░░░░░░   28.1%        
-    Rust         ████████░░░░░░░░░░░░   15.0%        
+  ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧                                                 
+   ┌──────────────────────────────────────────────┐   
+    SQl          ████                   15.3%   📊🐘
+    AI-Script    ██████████████████     75.2%   🤖     
+    Python       ████████               38.1%   🐍     
+    Rust         █                      05.0%   🦀
+    PowerShell   ████                   15.0%   >_
+    Go (Golang)  █                      05.0%   🐹
+    JavaScript   ██                     11.4%   ☕
+    Assembly     █                      05.0%   🔠
+    C / C++      █                      05.0%   ©️++
+    HTML         ███████████            47.8%   🖥️              
   └────────────────────────────────────────────────┘   
-           [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE]  
+      [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE] ... 
                                                        
 
 ---
