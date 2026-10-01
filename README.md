@@ -103,7 +103,7 @@
 ## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
 
 <!-- 2. ZAG: DERECHA -->
-<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/gif.gif" alt="GIF 2" />
+<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/oso.svg" alt="SVG 2" />
 
 <p align="center">
   <img src="Perfil/radar.svg" alt="Orbital Radar" width="75%" />
@@ -113,7 +113,7 @@
 ---
 
 <!-- 3. ZIG: IZQUIERDA -->
-<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Space%20Travel%20Loop%20GIF.gif" alt="GIF 3" />
+<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/" alt="GIF 3" />
 
 <p align="center">
   <img src="Perfil/certi.svg" alt="Certifications Grid" width="45%" />
@@ -178,7 +178,7 @@
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
 <!-- 4. ZAG: DERECHA -->
-<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Negocios%20Enable%20GIF.gif" alt="GIF 4" />
+<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Negocios.svg" alt="GIF 4" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
@@ -186,7 +186,7 @@
 <br clear="all">
 
 <!-- 5. ZIG: IZQUIERDA -->
-<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Loop%20Glitch%20GIF.gif" alt="GIF 5" />
+<img align="left" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Loop.svg" alt="GIF 5" />
 
 <p align="center">
   <img src="Perfil/team.svg" alt="Command Team" width="45%" />
@@ -200,7 +200,7 @@
 ---
 
 <!-- 6. ZAG: DERECHA -->
-<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku%20Meme%20GIF.gif" alt="GIF 6" />
+<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku.svg" alt="GIF 6" />
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
@@ -212,6 +212,6 @@
 <!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
 <div style="overflow: hidden; width: 100%; margin: 20px 0;">
   <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/spacesunGIF-ezgif.com-view-metadata.svg" alt="SVG 7" />
-  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-maker.gif" alt="SVG 8" />
+  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/niña.svg" alt="SVG 8" />
 </div>
 <br clear="all">
