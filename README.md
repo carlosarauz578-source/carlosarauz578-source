@@ -20,62 +20,61 @@
 </p>
 
 ---
-
 ## 🛰️ // ORBITAL_CORE_PROFILE
 Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descentralizados. Especialista en la fortificación de smart contracts, auditorías de infraestructura crítica y despliegue de nodos en redes orbitales y blockchains de alta disponibilidad.
 
 <p align="center">
   <!-- Solidity -->
   <a href="https://soliditylang.org/" target="_blank" title="Solidity - Smart Contracts">
-    <img src="https://simpleicons.org/icons/solidity.svg" alt="Solidity" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(50, 150, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/solidity.svg" alt="Solidity" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(50, 150, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(255, 220, 0, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(255, 220, 0, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 122, 204, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(0, 122, 204, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://simpleicons.org/icons/python.svg" alt="Python" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(53, 114, 165, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/python.svg" alt="Python" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(53, 114, 165, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://simpleicons.org/icons/git.svg" alt="Git" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(240, 80, 50, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/git.svg" alt="Git" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(240, 80, 50, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(240, 180, 40, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(240, 180, 40, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(200, 200, 200, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(200, 200, 200, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(0, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(0, 140, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- Ethereum -->
   <a href="https://ethereum.org/" target="_blank" title="Ethereum">
-    <img src="https://simpleicons.org/icons/ethereum.svg" alt="Ethereum" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(120, 120, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/ethereum.svg" alt="Ethereum" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(120, 120, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 
   <!-- IPFS -->
   <a href="https://ipfs.tech/" target="_blank" title="IPFS">
-    <img src="https://simpleicons.org/icons/ipfs.svg" alt="IPFS" height="45px" style="filter: invert(1); border-radius: 10px; box-shadow: 0 0 15px rgba(90, 210, 200, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 5px; padding: 4px; background: rgba(20, 25, 40, 0.6);">
+    <img src="https://simpleicons.org/icons/ipfs.svg" alt="IPFS" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(90, 210, 200, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
   </a>
 </p>
----
+
 
 ## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
 
