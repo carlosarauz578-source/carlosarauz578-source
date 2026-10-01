@@ -179,6 +179,45 @@
   <img src="dist/space-defender.svg?v=5" alt="Cyber Space Defender" width="100%">
 </div>
 
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0wemg1bDJqZXQ4cmVmdWI4ejEyOXcwMnNwZ3puamxycGdtYTZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlud3B2ajVlcnAxams0Y2RzaTc2cGc3ZDlza2kyeXMwNmZiZmpjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk0aTZ3NWdyZW8yMnM1eDh4cGU3Z2QxM3RzZWxneWt1eWtsam1kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UxWBIttMvvIJ55hTe/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="123" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNpeTFoeWNicThnY2Jsb3gzeHNyZHBhdTJrODlrM3dpbHh1MjFraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0WjHhGx87PoY/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="111" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Frbmw3ZW56bm9pYXlqdDE4OGtqZnIybWt0MTFwdGZxNXQzOGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="88" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd4em1jdjFpaHFxYTM1ZmZzOGl6YXJkZGlvMmY3MjYxZ2d4eTQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiTY1JMB6xvUUjuPRH/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="left" height="105" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVwNmE5enB6MWY3MGpnZnJhOXFqOGViMHk2djluZ3c4ejYwYnM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdLOIQgsIj6ybqp8rw/giphy.gif"  />
+
+###
+
 ```bash
 root@carlosarauz-cyber-command:~# ./launch_orbital_defenses.sh --secure
 [INFO] Initializing quantum encryption protocols (AES-256-GCM)... [OK]
