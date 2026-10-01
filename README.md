@@ -30,6 +30,9 @@
   <!-- 1. VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Vs%20code.png" width="45" height="45" alt="VS Code" style="margin: 4px;" />
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/sql.png" width="45" height="45" alt="SQL" style="margin: 4px;" />
   </a>
   <!-- 2. Podman -->
   <a href="https://podman.io/" target="_blank">
