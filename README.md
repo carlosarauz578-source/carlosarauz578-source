@@ -290,7 +290,7 @@
 
 <br>
 
-<p><code>[STATUS: ONLINE] &bull; [SECURITY_LEVEL: SECURE] &bull; SYSTEM_OPTIMIZED</code></p>
+<p><code>[STATUS: ONLINE] &bull; [SECURITY_LEVEL: SECURE] &bull; SYSTEM_OPTIMIZED...</code></p>
 
 </div>
 
