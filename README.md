@@ -22,7 +22,7 @@
 ---
 
 <!-- 1. ZIG: IZQUIERDA -->
-<img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Hacking%20Rick%20And.gif" alt="GIF 1" />
+<img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ezgif.com-gif-to-svg-converter.svg" alt="GIF 1" />
 
 <h3 align="center">🛰️ // ORBITAL_CORE_PROFILE</h3>
 <p align="center">
