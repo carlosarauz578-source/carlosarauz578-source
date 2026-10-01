@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-REPOSITORIO/main/orbital-profile.svg" alt="Orbital Core Profile" width="100%">
+  <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/orbital-profile.svg" alt="Orbital Core Profile" width="100%">
 </p>
 
 ## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
