@@ -202,8 +202,14 @@
 <!-- 6. ZAG: DERECHA -->
 <img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku.svg" alt="GIF 6" />
 
- ---                                                                                                                  
+ ---                                                                                                                                                                      
 
+<!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
+<div style="overflow: hidden; width: 100%; margin: 20px 0;">
+  <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/spacesunGIF-ezgif.com-view-metadata.svg" alt="SVG 7" />
+  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/niña.svg" alt="SVG 8" />
+</div>
+<br clear="all">
 ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧
 ┌──────────────────────────────────────────────┐
  SQL          ████                   15.3%   📊🐘
@@ -218,13 +224,5 @@
  HTML         ███████████            47.8%   🖥️
 └──────────────────────────────────────────────┘
    [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE] ...
-                                                      
 
----
 
-<!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
-<div style="overflow: hidden; width: 100%; margin: 20px 0;">
-  <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/spacesunGIF-ezgif.com-view-metadata.svg" alt="SVG 7" />
-  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/niña.svg" alt="SVG 8" />
-</div>
-<br clear="all">
