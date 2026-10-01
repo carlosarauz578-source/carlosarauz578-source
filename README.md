@@ -59,9 +59,9 @@
   <a href="https://chatgpt.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/chatgpt.png" width="45" height="45" alt="ChatGPT" style="margin: 4px;" />
   </a>
-  <!-- 9. Gemini -->
+<!-- Gemini -->
   <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/GeminLpng" width="45" height="45" alt="Gemini" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/gemini.png" width="45" height="45" alt="Gemini" style="margin: 4px;" />
   </a>
   <!-- 10. JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
