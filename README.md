@@ -99,19 +99,6 @@
 
 ---
 
-## 🚀 // TACTICAL_ACCESS_GRID (ESTACIONES ESPACIALES Y REPOSITORIOS)
-
-| 🛰️ Estación Orbital / Nodo Activo | 🛠 Stack Tecnológico | 📡 Protocolo Galáctico & Descripción | Panel de Control / Acceso |
-| :--- | :--- | :--- | :--- |
-| **[solidity-portfolio](https://github.com/carlosarauz578-source/solidity-portfolio)** | ![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat-square&logo=solidity&logoColor=white) | `DeFi Orbital Contracts`<br><sub>*Plataforma satelital de auditoría de contratos inteligentes financieros.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/solidity-portfolio) |
-| **[Blockchain-JahCrypto](https://github.com/carlosarauz578-source/Blockchain-JahCrypto)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Web3 Ledger Cluster`<br><sub>*Red de nodos interconectados para transacciones en cadena de bloques.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/Blockchain-JahCrypto) |
-| **[Bootcamp-Blockchain-Web3](https://github.com/carlosarauz578-source/Bootcamp-Blockchain-Web3)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Web3 Training Academy`<br><sub>*Bootcamp intensivo de desarrollo y despliegue de aplicaciones Web3.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/Bootcamp-Blockchain-Web3) |
-| **[nft-repository](https://github.com/carlosarauz578-source/nft-repository)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `Smart Asset Nebula`<br><sub>*Centro de acuñación y gestión de activos digitales descentralizados.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/nft-repository) |
-| **[CiberTermux](https://github.com/carlosarauz578-source/CiberTermux)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Mobile Sec-Ops Terminal`<br><sub>*Herramientas y scripts de ciberseguridad optimizados para entornos móviles.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberTermux) |
-| **[CiberSegurity](https://github.com/carlosarauz578-source/CiberSegurity)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `Offensive / Defensive Orbit`<br><sub>*Arsenal de scripts automatizados para evaluación de vulnerabilidades.*</sub> | [![NODE-ONLINE](https://img.shields.io/badge/🟢_NODE--ONLINE-00FF66?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/carlosarauz578-source/CiberSegurity) |
-
----
-
 <p align="center">
   <img src="Perfil/certi.svg" alt="Certifications Grid" width="48%" />
 </p>
