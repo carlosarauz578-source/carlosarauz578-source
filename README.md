@@ -210,19 +210,88 @@
   <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/niña.svg" alt="SVG 8" />
 </div>
 <br clear="all">
-⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧
-┌──────────────────────────────────────────────┐
- SQL          ████                   15.3%   📊🐘
- AI-Script    ██████████████████     75.2%   🤖
- Python       ████████               38.1%   🐍
- Rust         █                      05.0%   🦀
- PowerShell   ████                   15.0%   >_
- Go (Golang)  █                      05.0%   🐹
- JavaScript   ██                     11.4%   ☕
- Assembly     █                      05.0%   🔠
- C / C++      █                      05.0%   ©️++
- HTML         ███████████            47.8%   🖥️
-└──────────────────────────────────────────────┘
-   [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE] ...
+
+<div align="center">
+
+<p><code>⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧</code></p>
+
+<table width="100%" style="border-collapse: collapse; font-family: monospace;">
+  <thead>
+    <tr style="border-bottom: 1px solid #414868; color: #7aa2f7;">
+      <th align="left">LANGUAGE / MODULE</th>
+      <th align="center">USAGE DISTRIBUTION</th>
+      <th align="center">RATE</th>
+      <th align="center">ICON</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>AI-Script</b></td>
+      <td align="center"><code>██████████████████</code></td>
+      <td align="center">75.2%</td>
+      <td align="center">🤖</td>
+    </tr>
+    <tr>
+      <td align="left"><b>HTML</b></td>
+      <td align="center"><code>███████████░░░░░░░</code></td>
+      <td align="center">47.8%</td>
+      <td align="center">🖥️</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Python</b></td>
+      <td align="center"><code>████████░░░░░░░░░░</code></td>
+      <td align="center">38.1%</td>
+      <td align="center">🐍</td>
+    </tr>
+    <tr>
+      <td align="left"><b>SQL</b></td>
+      <td align="center"><code>████░░░░░░░░░░░░░░</code></td>
+      <td align="center">15.3%</td>
+      <td align="center">📊🐘</td>
+    </tr>
+    <tr>
+      <td align="left"><b>PowerShell</b></td>
+      <td align="center"><code>████░░░░░░░░░░░░░░</code></td>
+      <td align="center">15.0%</td>
+      <td align="center">>_</td>
+    </tr>
+    <tr>
+      <td align="left"><b>JavaScript</b></td>
+      <td align="center"><code>██░░░░░░░░░░░░░░░░</code></td>
+      <td align="center">11.4%</td>
+      <td align="center">☕</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Rust</b></td>
+      <td align="center"><code>█░░░░░░░░░░░░░░░░░</code></td>
+      <td align="center">05.0%</td>
+      <td align="center">🦀</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Go (Golang)</b></td>
+      <td align="center"><code>█░░░░░░░░░░░░░░░░░</code></td>
+      <td align="center">05.0%</td>
+      <td align="center">🐹</td>
+    </tr>
+    <tr>
+      <td align="left"><b>Assembly</b></td>
+      <td align="center"><code>█░░░░░░░░░░░░░░░░░</code></td>
+      <td align="center">05.0%</td>
+      <td align="center">🔠</td>
+    </tr>
+    <tr>
+      <td align="left"><b>C / C++</b></td>
+      <td align="center"><code>█░░░░░░░░░░░░░░░░░</code></td>
+      <td align="center">05.0%</td>
+      <td align="center">©️++</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<p><code>[STATUS: ONLINE] &bull; [SECURITY_LEVEL: SECURE] &bull; SYSTEM_OPTIMIZED</code></p>
+
+</div>
 
 
