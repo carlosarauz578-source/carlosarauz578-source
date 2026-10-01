@@ -22,7 +22,7 @@
 ---
 
 <!-- 1. ZIG: IZQUIERDA -->
-<img align="left" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVwNmE5enB6MWY3MGpnZnJhOXFqOGViMHk2djluZ3c4ejYwYnM0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdLOIQgsIj6ybqp8rw/giphy.gif" alt="GIF 1" />
+<img align="left" height="100" src="https://media.giphy.com/media/tdLOIQgsIj6ybqp8rw/giphy.gif" alt="GIF 1" />
 
 <h3 align="center">🛰️ // ORBITAL_CORE_PROFILE</h3>
 <p align="center">
@@ -113,7 +113,7 @@
 ---
 
 <!-- 3. ZIG: IZQUIERDA -->
-<img align="left" height="110" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0wemg1bDJqZXQ4cmVmdWI4ejEyOXcwMnNwZ3puamxycGdtYTZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPlCroSFHV8uoko/giphy.gif" alt="GIF 3" />
+<img align="left" height="110" src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" alt="GIF 3" />
 
 <p align="center">
   <img src="Perfil/certi.svg" alt="Certifications Grid" width="45%" />
@@ -178,7 +178,7 @@
 ## 🕶️ // COMMAND_CONSOLE_STREAM (HUD ESPACIAL EN VIVO) ✝️🤍
 
 <!-- 4. ZAG: DERECHA -->
-<img align="right" height="110" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlud3B2ajVlcnAxams0Y2RzaTc2cGc3ZDlza2kyeXMwNmZiZmpjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif" alt="GIF 4" />
+<img align="right" height="110" src="https://media.giphy.com/media/FtLZ05FBnC48uYGzuO/giphy.gif" alt="GIF 4" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF66&size=14&background=030712&center=false&vCenter=true&width=900&lines=%5BTACTICAL_OPS%5D:+Scanning_orbital_quadrant_alpha...;%5BASTEROID_FIREWALL%5D:+Active_defense_grid_holding_at_100%25;%5BCOSMIC_IDS%5D:+Intrusion_detection_systems_nominal;%3E+satellite_uplink_established_successfully+--secure;%5BBLOCKCHAIN_NODE%5D:+Orbital_synchronization_complete+with_zero_latency" alt="Cyber Command HUD Stream" />
@@ -186,7 +186,7 @@
 <br clear="all">
 
 <!-- 5. ZIG: IZQUIERDA -->
-<img align="left" height="110" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk0aTZ3NWdyZW8yMnM1eDh4cGU3Z2QxM3RzZWxneWt1eWtsam1kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UxWBIttMvvIJ55hTe/giphy.gif" alt="GIF 5" />
+<img align="left" height="110" src="https://media.giphy.com/media/2UxWBIttMvvIJ55hTe/giphy.gif" alt="GIF 5" />
 
 <p align="center">
   <img src="Perfil/team.svg" alt="Command Team" width="45%" />
@@ -200,7 +200,7 @@
 ---
 
 <!-- 6. ZAG: DERECHA -->
-<img align="right" height="110" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNpeTFoeWNicThnY2Jsb3gzeHNyZHBhdTJrODlrM3dpbHh1MjFraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0WjHhGx87PoY/giphy.gif" alt="GIF 6" />
+<img align="right" height="110" src="https://media.giphy.com/media/M0WjHhGx87PoY/giphy.gif" alt="GIF 6" />
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
@@ -211,7 +211,7 @@
 
 <!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
 <div style="overflow: hidden; width: 100%; margin: 20px 0;">
-  <img align="left" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Frbmw3ZW56bm9pYXlqdDE4OGtqZnIybWt0MTFwdGZxNXQzOGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif" alt="GIF 7" />
-  <img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd4em1jdjFpaHFxYTM1ZmZzOGl6YXJkZGlvMmY3MjYxZ2d4eTQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiTY1JMB6xvUUjuPRH/giphy.gif" alt="GIF 8" />
+  <img align="left" height="100" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" alt="GIF 7" />
+  <img align="right" height="100" src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" alt="GIF 8" />
 </div>
 <br clear="all">
