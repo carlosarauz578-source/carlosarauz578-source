@@ -202,9 +202,9 @@
 <!-- 6. ZAG: DERECHA -->
 <img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku.svg" alt="GIF 6" />
 
-                                                                                                                   
+ ---                                                                                                                  
 
- ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧
+⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧
 ┌──────────────────────────────────────────────┐
  SQL          ████                   15.3%   📊🐘
  AI-Script    ██████████████████     75.2%   🤖
