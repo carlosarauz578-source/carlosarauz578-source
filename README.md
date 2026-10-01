@@ -212,6 +212,6 @@
 <!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
 <div style="overflow: hidden; width: 100%; margin: 20px 0;">
   <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/spacesunGIF-ezgif.com-view-metadata.svg" alt="SVG 7" />
-  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/65efzo.gif" alt="SVG 8" />
+  <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/space sun GIF.gif" alt="SVG 8" />
 </div>
 <br clear="all">
