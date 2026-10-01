@@ -202,23 +202,23 @@
 <!-- 6. ZAG: DERECHA -->
 <img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Goku.svg" alt="GIF 6" />
 
-                                                     
-                                                                
-  ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧                                                 
-   ┌──────────────────────────────────────────────┐   
-    SQl          ████                   15.3%   📊🐘
-    AI-Script    ██████████████████     75.2%   🤖     
-    Python       ████████               38.1%   🐍     
-    Rust         █                      05.0%   🦀
-    PowerShell   ████                   15.0%   >_
-    Go (Golang)  █                      05.0%   🐹
-    JavaScript   ██                     11.4%   ☕
-    Assembly     █                      05.0%   🔠
-    C / C++      █                      05.0%   ©️++
-    HTML         ███████████            47.8%   🖥️              
-  └────────────────────────────────────────────────┘   
-      [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE] ... 
-                                                       
+                                                                                                                   
+
+ ⚡ // SYSTEM_STATS: LANGUAGES_DETECTED ⌛👨‍💻🪟🐧
+┌──────────────────────────────────────────────┐
+ SQL          ████                   15.3%   📊🐘
+ AI-Script    ██████████████████     75.2%   🤖
+ Python       ████████               38.1%   🐍
+ Rust         █                      05.0%   🦀
+ PowerShell   ████                   15.0%   >_
+ Go (Golang)  █                      05.0%   🐹
+ JavaScript   ██                     11.4%   ☕
+ Assembly     █                      05.0%   🔠
+ C / C++      █                      05.0%   ©️++
+ HTML         ███████████            47.8%   🖥️
+└──────────────────────────────────────────────┘
+   [STATUS: ONLINE] • [SECURITY_LEVEL: SECURE] ...
+                                                      
 
 ---
 
