@@ -25,53 +25,44 @@ Comandante de sistemas distribuidos y ciberseguridad avanzada en entornos descen
 
 <p align="center">
   <!-- Solidity -->
-  <a href="https://soliditylang.org/" target="_blank" title="Solidity - Smart Contracts">
-    <img src="https://simpleicons.org/icons/solidity.svg" alt="Solidity" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(50, 150, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   </a>
-
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(255, 220, 0, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(0, 122, 204, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
-
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://simpleicons.org/icons/python.svg" alt="Python" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(53, 114, 165, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://simpleicons.org/icons/git.svg" alt="Git" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(240, 80, 50, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(240, 180, 40, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
-
   <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img src="https://simpleicons.org/icons/gnu.svg" alt="Bash" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(200, 200, 200, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   </a>
-
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(0, 140, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
-
   <!-- Ethereum -->
-  <a href="https://ethereum.org/" target="_blank" title="Ethereum">
-    <img src="https://simpleicons.org/icons/ethereum.svg" alt="Ethereum" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(120, 120, 255, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://ethereum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
   </a>
-
   <!-- IPFS -->
-  <a href="https://ipfs.tech/" target="_blank" title="IPFS">
-    <img src="https://simpleicons.org/icons/ipfs.svg" alt="IPFS" height="48px" style="border-radius: 12px; box-shadow: 0 0 18px rgba(90, 210, 200, 0.8), inset 0 0 10px rgba(255, 255, 255, 0.5); margin: 0 6px; padding: 6px; background: rgba(15, 20, 35, 0.7);">
+  <a href="https://ipfs.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS">
   </a>
 </p>
 
