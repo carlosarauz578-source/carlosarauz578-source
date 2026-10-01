@@ -103,7 +103,7 @@
 ## 📡 // ORBITAL_TELEMETRY & ASSETS (NUEVOS MÓDULOS)
 
 <!-- 2. ZAG: DERECHA -->
-<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/65efzo.gif" alt="GIF 2" />
+<img align="right" height="110" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/gif.gif" alt="GIF 2" />
 
 <p align="center">
   <img src="Perfil/radar.svg" alt="Orbital Radar" width="75%" />
