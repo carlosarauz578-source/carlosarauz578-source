@@ -7,7 +7,7 @@
   <a href="https://carlosarauz578-source.github.io/Pages/asteroid-firewall/" target="_blank">
     <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
   </a>
-  <a href="https://carlosarauz578-source.github.io/Pages/ORBITAL_SECURITY/" target="_blank">
+  <a href="https://carlosarauz578-source.github.io/Pages/ORBITAL_SECURITY/" target="_blank">  
     <img src="https://img.shields.io/badge/ORBITAL__SECURITY-STABLE-FF0055?style=for-the-badge&logo=spacex&logoColor=white" alt="SECURITY STABLE" />
   </a>
   <a href="https://carlosarauz578-source.github.io/Pages/Blockchain_NODE/" target="_blank">
