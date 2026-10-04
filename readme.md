@@ -4,13 +4,13 @@
 
 <!-- Paneles 3D Flotantes: Subsistemas Activos con Estética Espacial Neón --> 
 <p align="center"> 
-  <a href="https://carlosarauz578-source.github.io/asteroid-firewall/" target="_blank">
+  <a href="https://carlosarauz578-source.github.io/Pages/asteroid-firewall/" target="_blank">
     <img src="https://img.shields.io/badge/ASTEROID__FIREWALL-ACTIVE-00FF66?style=for-the-badge&logo=icloud&logoColor=black" alt="ASTEROID FIREWALL - ACTIVE" />
   </a>
-  <a href="https://carlosarauz578-source.github.io/ORBITAL_SECURITY/" target="_blank">
+  <a href="https://carlosarauz578-source.github.io/Pages/ORBITAL_SECURITY/" target="_blank">
     <img src="https://img.shields.io/badge/ORBITAL__SECURITY-STABLE-FF0055?style=for-the-badge&logo=spacex&logoColor=white" alt="SECURITY STABLE" />
   </a>
-  <a href="https://carlosarauz578-source.github.io/BLOCKCHAIN_NODE/" target="_blank">
+  <a href="https://carlosarauz578-source.github.io/Pages/Blockchain_NODE/" target="_blank">
     <img src="https://img.shields.io/badge/BLOCKCHAIN__NODE-ORBITAL__SYNCED-9400D3?style=for-the-badge&logo=ethereum&logoColor=white" alt="NODE SYNCED" />
   </a>
 </p>
