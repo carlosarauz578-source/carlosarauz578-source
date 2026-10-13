@@ -81,6 +81,7 @@
   </a>
   <!-- 11. TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/TS.png" width="45" height="45" alt="TypeScript" style="margin: 4px;" />
   </a>
   <!-- 12. Python -->
@@ -123,13 +124,6 @@
 </p>
 <br clear="all">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
-</p>
-
----
-
 <!-- Iconos de Herramientas de Ciberseguridad con Efecto 3D Neón e Iluminación -->
 <p align="center">
   <!-- NMAP -->
@@ -169,6 +163,33 @@
 <!-- Texto explicativo centrado -->
 <p align="center">
   <sub>🛠️ <em>Herramientas clave del arsenal ofensivo y defensivo desplegadas en el entorno.</em></sub>
+</p>
+
+---
+
+<!-- 🧠 ÁREA DE EDUCACIÓN AUTÓNOMA Y APRENDIZAJE CONTINUO -->
+<h2 align="center">🧠 // AUTONOMOUS_EDUCATION_LABS</h2>
+
+<p align="center">
+  Formación continua e investigación independiente en Ciberseguridad, Blockchain e Inteligencia Artificial.<br>
+  Plataforma activa para la documentación de laboratorios, detección de amenazas y desarrollo de entornos defensivos.
+</p>
+
+<p align="center">
+  <a href="https://carlosarauz578-source.github.io/Pages/cyberlearn-ai/" target="_blank" title="CyberLearn AI - Portal de Educación Autónoma">
+    <img src="https://img.shields.io/badge/CYBERLEARN__AI-AUTONOMOUS__LEARNING-00F7FF?style=for-the-badge&logo=openai&logoColor=black" alt="CYBERLEARN AI - AUTONOMOUS LEARNING HUB" style="border-radius: 6px; box-shadow: 0 0 12px rgba(0, 247, 255, 0.6);" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🎓 <em>Haz clic en la insignia/icono para acceder al laboratorio de investigación y capacitación interactiva.</em></sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosarauz578-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosarauz578-source&theme=tokyonight&hide_border=true&background=0a0f1d" alt="GitHub Streak" />
 </p>
 
 ---
@@ -296,5 +317,3 @@
 <p><code>[STATUS: ONLINE] &bull; [SECURITY_LEVEL: SECURE] &bull; SYSTEM_OPTIMIZED...</code></p>
 
 </div>
-
-
