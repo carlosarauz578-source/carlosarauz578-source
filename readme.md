@@ -177,7 +177,7 @@
 
 <p align="center">
   <a href="https://carlosarauz578-source.github.io/Pages/cyberlearn-ai/" target="_blank" title="CyberLearn AI - Portal de Educación Autónoma">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.CiberAi.png" alt="Elastic Security" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/sql.png" width="45" height="45" alt="SQL" style="margin: 4px;" />
   </a>
 </p>
 
