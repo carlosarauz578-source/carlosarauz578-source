@@ -49,56 +49,56 @@
   </a>
   <!-- 3. VirtualBox -->
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/vbox.png" width="45" height="45" alt="VirtualBox" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/vbox.png" width="45" height="45" alt="VirtualBox" style="margin: 30px;" />
   </a>
   <!-- 4. Java -->
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Java.png" width="45" height="45" alt="Java" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Java.png" width="45" height="45" alt="Java" style="margin: 30px;" />
   </a>
   <!-- 5. HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/html.png" width="45" height="45" alt="HTML" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/html.png" width="45" height="45" alt="HTML" style="margin: 30px;" />
   </a>
   <!-- 6. Llama AI -->
   <a href="https://www.llama.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/llama.png" width="45" height="45" alt="Llama" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/llama.png" width="45" height="45" alt="Llama" style="margin: 30px;" />
   </a>
   <!-- 7. Copilot -->
   <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Copilot.png" width="45" height="45" alt="Copilot" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Copilot.png" width="45" height="45" alt="Copilot" style="margin: 30px;" />
   </a>
   <!-- 8. ChatGPT -->
   <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/chatgpt.png" width="45" height="45" alt="ChatGPT" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/chatgpt.png" width="45" height="45" alt="ChatGPT" style="margin: 30px;" />
   </a>
   <!-- Gemini -->
   <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Gemini.png" width="45" height="45" alt="Gemini" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Gemini.png" width="45" height="45" alt="Gemini" style="margin: 30px;" />
   </a>
   <!-- 10. JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/js.png" width="45" height="45" alt="JavaScript" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/js.png" width="45" height="45" alt="JavaScript" style="margin: 30px;" />
   </a>
   <!-- 11. TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/TS.png" width="45" height="45" alt="TypeScript" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/TS.png" width="45" height="45" alt="TypeScript" style="margin: 30px;" />
   </a>
   <!-- 12. Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/python.png" width="45" height="45" alt="Python" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/python.png" width="45" height="45" alt="Python" style="margin: 30px;" />
   </a>
   <!-- 13. Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/git.png" width="45" height="45" alt="Git" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/git.png" width="45" height="45" alt="Git" style="margin: 30px;" />
   </a>
   <!-- 14. Linux -->
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/linux.png" width="45" height="45" alt="Linux" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/linux.png" width="45" height="45" alt="Linux" style="margin: 30px;" />
   </a>
   <!-- 15. Docker -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/docker.png" width="45" height="45" alt="Docker" style="margin: 4px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/docker.png" width="45" height="45" alt="Docker" style="margin: 30px;" />
   </a>
 </p>
 
@@ -128,35 +128,35 @@
 <p align="center">
   <!-- NMAP -->
   <a href="https://nmap.org/" target="_blank" title="Nmap - Escaneo de Redes">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.nmap.jpg" alt="Nmap" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 162, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- WIRESHARK -->
   <a href="https://www.wireshark.org/" target="_blank" title="Wireshark - Análisis de Protocolos">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/imaWireshark.34.jpg" alt="Wireshark" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(0, 230, 180, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- BURP SUITE -->
   <a href="https://portswigger.net/burp" target="_blank" title="Burp Suite - Web Security Scanner">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.BurpSuite.jpg" alt="Burp Suite" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 115, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.BurpSuite.jpg" alt="Burp Suite" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 115, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- METASPLOIT -->
   <a href="https://www.metasploit.com/" target="_blank" title="Metasploit Framework - Explotación">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Metaploit.jpg" alt="Metasploit" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 40, 40, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Metaploit.jpg" alt="Metasploit" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 40, 40, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- KALI LINUX -->
   <a href="https://www.kali.org/" target="_blank" title="Kali Linux - Distribución de Seguridad">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.KaliLinux.jpg" alt="Kali Linux" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(80, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.KaliLinux.jpg" alt="Kali Linux" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(80, 140, 255, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- NESSUS -->
   <a href="https://www.tenable.com/products/nessus/" target="_blank" title="Nessus - Vulnerability Scanner">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Nessus.jpg" alt="Nessus" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(180, 180, 180, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.Nessus.jpg" alt="Nessus" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(180, 180, 180, 0.5), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
   <!-- BASH -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash - Terminal y Scripting">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.GNUBash.jpg" alt="Bash" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(240, 240, 240, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.5); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.GNUBash.jpg" alt="Bash" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(240, 240, 240, 0.7), inset 0 0 8px rgba(255, 255, 255, 0.5); margin: 30px;">
   </a>
   <!-- ELASTIC SECURITY -->
   <a href="https://www.elastic.co/security" target="_blank" title="Elastic Security - SIEM & XDR">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.ElasticSecurity.jpg" alt="Elastic Security" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/ima.ElasticSecurity.jpg" alt="Elastic Security" height="100px" style="border-radius: 10px; box-shadow: 0 0 15px rgba(255, 204, 0, 0.8), inset 0 0 8px rgba(255, 255, 255, 0.4); margin: 30px;">
   </a>
 </p>
 
@@ -177,7 +177,7 @@
 
 <p align="center">
   <a href="https://carlosarauz578-source.github.io/Pages/cyberlearn-ai/" target="_blank" title="CyberLearn AI - Portal de Educación Autónoma">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/CiberAi.png" width="100" height="60" alt="SQL" style="margin: 30px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/CiberAi.png" width="100" height="60" alt="SQL" style="margin: 50px;" />
   </a>
 </p>
 
@@ -229,7 +229,7 @@
  ---                                                                                                                                                                      
 
 <!-- 7. ZIG (Izquierda) y 8. ZAG (Derecha) Finales -->
-<div style="overflow: hidden; width: 100%; margin: 20px 0;">
+<div style="overflow: hidden; width: 100%; margin: 40px 0;">
   <img align="left" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/spacesunGIF-ezgif.com-view-metadata.svg" alt="SVG 7" />
   <img align="right" height="100" src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/niña.svg" alt="SVG 8" />
 </div>
