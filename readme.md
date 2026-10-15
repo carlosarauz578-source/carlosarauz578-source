@@ -180,7 +180,7 @@
     <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/CiberAi.png" width="100" height="50" alt="SQL" style="margin: 50px;" />
   </a>
     <a href="https://carlosarauz578-source.github.io/Pages/Hardening/" target="_blank" title="Hardening - Portal de Educación Autónoma">
-    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Harde.png" width="100" height="50" alt="SQL" style="margin: 80px;" />
+    <img src="https://raw.githubusercontent.com/carlosarauz578-source/carlosarauz578-source/main/Perfil/Harde.png" width="100" height="50" alt="SQL" style="margin: 110px;" />
   </a>
 </p>
 
