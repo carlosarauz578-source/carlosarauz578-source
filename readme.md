@@ -177,7 +177,7 @@
 
 <p align="center">
   <a href="https://carlosarauz578-source.github.io/Pages/cyberlearn-ai/" target="_blank" title="CyberLearn AI - Portal de Educación Autónoma">
-    <img src="https://img.shields.io/badge/CYBERLEARN__AI-AUTONOMOUS__LEARNING-00F7FF?style=for-the-badge&logo=openai&logoColor=black" alt="CYBERLEARN AI - AUTONOMOUS LEARNING HUB" style="border-radius: 6px; box-shadow: 0 0 12px rgba(0, 247, 255, 0.6);" />
+    <img src="CiberAi.png" 
   </a>
 </p>
 
